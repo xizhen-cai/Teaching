@@ -1,0 +1,431 @@
+Region,DataYear,ClassGrade,Gender,Ageyears,Sleep_Hours_Schoolnight,Sleep_Hours_Non_Schoolnight,Schoolwork_Pressure,Superpower,Handed,Travel_to_School,Travel_time_to_School,Left_Footlength_cm,Longer_Finger_Lefthand,Home_Internet_Access,Communication_With_Friends,Text_Messages_Sent_Yesterday,Text_Messages_Received_Yesterday,Hanging_Out_With_Friends_Hours,Doing_Homework_Hours,Doing_Things_With_Family_Hours,Outdoor_Activities_Hours,Social_Websites_Hours,Texting_Messaging_Hours,Watching_TV_Hours,Planned_Education_Level,Favorite_Music
+FL,2018,12,Male,17,5,10,Some,Telepathy,Right-Handed,Car,20,24,Ring finger,Yes - other,In person,20,35,8,5,3,12,2,3,10,Graduate degree,Rock and roll
+CA,2016,7,Male,12,9,2,Some,Freeze time,Right-Handed,Car,5,5,Ring finger,Yes - dial-up connection,In person,5,6,30,5,8,8,0,1,9,Some college,Other
+CA,2013,7,Female,13,8.5,10.5,A lot,Fly,Right-Handed,Car,22,22,Same length,Yes - dial-up connection,In person,40,40,46,5,36,10,24,24,10,Graduate degree,Pop
+CA,2011,12,Male,17,6,8,Some,Freeze time,Right-Handed,Walk,5,25,Ring finger,Yes - broadband connection,Internet chat or instant messaging,2,4,10,8,3,15,20,10,2,Graduate degree,Other
+CA,2018,12,Male,18,8,10,Some,Telepathy,Right-Handed,Car,13,26,Index finger,Yes - broadband connection,In person,0,0,0,1,4,1,3,1,15,Less than high school,Gospel
+MI,2011,12,Male,18,7,9,Some,Invisibility,Right-Handed,Car,7,29,Same length,Yes - other,Text messaging,90,6,40,8,20,40,0,24,3,Graduate degree,Country
+SC,2011,11,Male,17,7,10,Some,Freeze time,Right-Handed,Car,2,25,Ring finger,Yes - broadband connection,Text messaging,22,41,20,1,1,6,3,5,10,Graduate degree,Rap/Hip hop
+FL,2015,6,Male,11,10,11,Some,Invisibility,Left-Handed,Car,15,23,Ring finger,Yes - other,In person,0,0,20,3,5,5,0,0,2,Graduate degree,Pop
+GA,2010,12,Male,18,6,9,A lot,Freeze time,Left-Handed,Car,3,25,Index finger,Yes - broadband connection,Text messaging,350,370,6,3,2,8,6,154,30,Graduate degree,Heavy metal
+MA,2017,8,Female,13,9,10,Some,Fly,Right-Handed,Car,7,23.8,Same length,Yes - dial-up connection,In person,50,55,9,7,14,14,2,4,14,Graduate degree,Country
+IN,2018,7,Male,13,8,10,None,Fly,Right-Handed,Car,1,26,Ring finger,Yes - other,Internet chat or instant messaging,500,500,2,0,5,6,2,1,2,Graduate degree,Rap/Hip hop
+OH,2012,12,Male,17,6,9,Some,Freeze time,Right-Handed,Bicycle,10,26,Index finger,Yes - broadband connection,Text messaging,20,30,8,8,4,3,1,10,8,Graduate degree,Heavy metal
+WI,2018,11,Male,16,5.5,6.5,Some,Freeze time,Right-Handed,Bicycle,15,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,0,0,6,7,5,12,1,1,6,Less than high school,Rock and roll
+NY,2017,6,Female,11,8,6,Some,Freeze time,Right-Handed,Rail (Train/Tram/Subway),90,25.5,Ring finger,Yes - broadband connection,In person,0,0,5,10,7,10,0,1,3,Other,Rap/Hip hop
+MI,2011,12,Male,18,8,12,Some,Invisibility,Right-Handed,Car,25,29,Ring finger,Yes - other,Cell phone,1000,1000,4,2,4,4,1,24,6,Graduate degree,Rap/Hip hop
+MA,2017,8,Female,14,4,5,A lot,Freeze time,Right-Handed,Bus,10,24,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",10,500,9,6,3,6,1,0,1,Graduate degree,Pop
+CA,2015,5,Female,11,10,14,Some,Freeze time,Right-Handed,Car,5,21,Ring finger,No internet connection,Cell phone,5,10,5,1,0,2,4,0,2,Other,Rock and roll
+GA,2014,9,Female,14,8,5,Very little,Telepathy,Ambidextrous,Car,5,,,Yes - broadband connection,Text messaging,100,20,48,5,120,0,120,120,24,Graduate degree,Rap/Hip hop
+IL,2014,6,Female,11,9,10,Some,Fly,Right-Handed,Walk,12,168,Index finger,Yes - other,Text messaging,40,40,20,5,7,16,19,20,4,Graduate degree,Pop
+IL,2016,12,Female,17,8,9,Some,Telepathy,Right-Handed,Car,7,26,Ring finger,Yes - broadband connection,Text messaging,29,36,7,18,14,12,7,2,10,Graduate degree,Pop
+NJ,2014,12,Male,18,7,10,A lot,Fly,Ambidextrous,Car,20,27,Index finger,Yes - broadband connection,Text messaging,12,16,8,2,10,3,2,4,9,Graduate degree,Punk rock
+KS,2018,12,Male,17,6,10,A lot,Fly,Right-Handed,Car,15,26.5,Index finger,Yes - broadband connection,Cell phone,25,15,52,10,7,0,4,9,3,Graduate degree,Other
+SC,2017,11,Female,16,8,9,Some,Invisibility,Left-Handed,Car,3,22,Index finger,Yes - broadband connection,Cell phone,13,13,20,1,20,2,15,15,10,Undergraduate degree,Rap/Hip hop
+IN,2015,10,Female,15,6,10,A lot,Fly,Right-Handed,Car,12,26,Ring finger,Yes - other,Text messaging,15,15,0,20,5,15,10,3,7,Graduate degree,Pop
+VA,2017,12,Female,17,5,7,Some,Telepathy,Right-Handed,Car,20,23,Index finger,Yes - other,Text messaging,34,43,49.5,20,10,0,0,5,8,Graduate degree,Other
+OH,2014,12,Female,18,7,5,Some,Invisibility,Right-Handed,Walk,5,25,Same length,Yes - broadband connection,Text messaging,50,50,25,12,10,10,8,5,2,Graduate degree,Country
+VT,2015,10,Male,15,8,9,Some,Telepathy,Right-Handed,Car,5,26,Ring finger,Yes - broadband connection,Text messaging,500,600,30,10,10,10,5,20,14,Graduate degree,Country
+AZ,2018,12,Female,17,4,4,A lot,Freeze time,Right-Handed,Car,45,25,Same length,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",200,200,10,11,2,0,10,15,5,Graduate degree,Pop
+VI,2014,12,Female,18,7,9,Some,Telepathy,Right-Handed,Bus,30,23,Ring finger,Yes - broadband connection,Text messaging,65,50,15,7,0,10,21,84,21,Undergraduate degree,Reggae
+NC,2016,6,Male,12,7,8,Some,Fly,Right-Handed,Bicycle,45,22,Same length,Yes - broadband connection,Other,6,7,115,45,60,115,0,0,150,Other,Other
+IN,2017,12,Female,18,8,10,Some,Fly,Right-Handed,Car,10,20,Index finger,Yes - other,In person,10,11,50,1,5,3,40,1,5,Some college,Other
+ID,2018,12,Male,20,7,9,A lot,Freeze time,Right-Handed,Walk,5,27,Ring finger,Yes - other,In person,15,36,14,8,6,6,2,2,1,Graduate degree,Country
+AR,2017,6,Female,12,9,12,Some,Telepathy,Right-Handed,Walk,10,6,Ring finger,Yes - other,Text messaging,30,31,2,1,2,3,2,2,2,Graduate degree,Country
+DE,2013,12,Female,15,7,7,A lot,Freeze time,Right-Handed,Car,45,30,Index finger,Yes - broadband connection,In person,50,50,4,5,2,20,2,10,3,Other,Other
+GU,2014,9,Female,14,7,6,A lot,Telepathy,Right-Handed,Car,5,22,Ring finger,Yes - other,In person,50,50,45,2,12,12,2,10,15,High school,Pop
+NY,2016,12,Female,23,4,10,A lot,Telepathy,Right-Handed,Car,15,2,Ring finger,Yes - other,Text messaging,150,390,0,2,7,0,24,24,17,Graduate degree,Reggae
+OH,2014,6,Female,12,5,12,Some,Fly,Right-Handed,Walk,15,23,Same length,Yes - other,Other,175,200,40,8,2,1,72,72,10,Some college,Pop
+CA,2017,12,Female,16,6,8,Some,Invisibility,Right-Handed,Car,3,23,Index finger,Yes - broadband connection,Cell phone,200,215,4,8,13,15,10,23,0,Undergraduate degree,Other
+CA,2017,11,Female,17,7,7,Some,Invisibility,Right-Handed,Car,20,23.5,Index finger,Yes - broadband connection,Text messaging,88,147,45,21,9,10,14,21,1,Undergraduate degree,Rap/Hip hop
+MO,2014,12,Female,17,6,8,Some,Invisibility,Right-Handed,Car,6,22,Index finger,Yes - broadband connection,Text messaging,100,102,10,10,4,5,6,2,2,High school,Pop
+NC,2014,12,Male,18,7,6,Some,Freeze time,Right-Handed,Car,3,42,Ring finger,Yes - broadband connection,Cell phone,100,130,30,4,2,6,4,2,3,Graduate degree,Rap/Hip hop
+WI,2017,7,Male,13,10,8,Some,Freeze time,Left-Handed,Car,12,27,Same length,Yes - broadband connection,Internet chat or instant messaging,2,1,45,3,20,10,40,30,4,Other,Rap/Hip hop
+MA,2016,8,Female,13,7,9,Some,Telepathy,Right-Handed,Car,12,22,Ring finger,Yes - other,Text messaging,150,150,24,5,3,7,20,20,4,Graduate degree,Country
+WY,2014,7,Female,12,8,10,A lot,Telepathy,Right-Handed,Walk,15,24,Index finger,Yes - other,In person,24,26,30,24,8,2,0,2,4,Graduate degree,Pop
+SC,2017,11,Female,16,7,11,A lot,Invisibility,Right-Handed,Car,7,25,Index finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",25,27,10,10,2,15,4,3,4,Graduate degree,Rap/Hip hop
+NC,2016,12,Male,16,7,8,A lot,Telepathy,Right-Handed,Car,20,30,Index finger,Yes - broadband connection,Text messaging,50,50,17,7,20,12,20,20,6,Graduate degree,Rock and roll
+UT,2010,9,Female,16,7,7,A lot,Freeze time,Right-Handed,Walk,20,10,Ring finger,Yes - other,Cell phone,5,15,10,1,15,2,3,1,10,Some college,Rap/Hip hop
+MA,2018,12,Male,17,5.5,10,Some,Fly,Right-Handed,Car,6,25,Ring finger,Yes - broadband connection,Internet chat or instant messaging,20,20,6,8,6,12,4,1,4,High school,Rap/Hip hop
+TX,2015,4,Male,10,8,10,Some,Fly,Right-Handed,Car,5,22,Ring finger,Yes - other,In person,0,0,10,1,54,16,1,0,5,Graduate degree,Pop
+IN,2014,12,Female,17,7,11,A lot,Telepathy,Right-Handed,Car,180,21.59,Ring finger,Yes - broadband connection,Internet chat or instant messaging,0,1,38,21,0,0,50,20,0,Graduate degree,Techno/Electronic
+VI,2014,12,Female,18,7,5,Very little,Freeze time,Right-Handed,Car,50,21,Same length,Yes - other,Cell phone,6,7,20,3,22,12,24,24,23,Graduate degree,Rap/Hip hop
+CA,2016,7,Female,12,7,12,Very little,Fly,Right-Handed,Car,10,24,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",5,12,10,15,8,3,20,3,15,Graduate degree,Pop
+MA,2016,8,Male,13,8,6,A lot,Fly,Ambidextrous,Bus,15,25,Ring finger,Yes - broadband connection,Text messaging,46,47,5,1,2,2,1,6,2,Some college,Rap/Hip hop
+OH,2018,12,Male,17,9,20,Some,Freeze time,Left-Handed,Car,5,30,Ring finger,Yes - broadband connection,Text messaging,200,250,36,0,24,9,169,169,189,Graduate degree,Rap/Hip hop
+NC,2016,11,Male,16,6,9,A lot,Invisibility,Right-Handed,Car,10,26,Ring finger,Yes - broadband connection,Text messaging,100,300,5,30,3,2,4,5,4,Graduate degree,Rap/Hip hop
+NY,2015,11,Female,16,7,7,Some,Fly,Right-Handed,Rail (Train/Tram/Subway),52,21,Ring finger,Yes - broadband connection,In person,150,150,40,7,12,9,0,2,3,Undergraduate degree,Other
+MA,2017,8,Female,12,8,10.5,Some,Freeze time,Right-Handed,Car,15,27,Ring finger,Yes - broadband connection,Text messaging,80,91,45,7,8,18,21,5,14,Undergraduate degree,Country
+MI,2018,12,Female,17,6,8,Some,Telepathy,Left-Handed,Car,17,24.7,Index finger,Yes - other,Text messaging,49,52,4,4,1,6,20,7,16,Graduate degree,Rhythm and blues (R&B)
+CA,2018,11,Female,17,6,7,Some,Telepathy,Right-Handed,Car,5,22,Ring finger,Yes - broadband connection,Cell phone,6,9,5,7,8,6,2,2,3,Undergraduate degree,Country
+WI,2017,8,Male,15,7,6,Some,Super strength,Right-Handed,Car,15,28,Ring finger,Yes - dial-up connection,Text messaging,60,65,6,1,3,10,4,,,Some college,Rap/Hip hop
+MA,2017,8,Male,14,8,9,Some,Freeze time,Right-Handed,Bus,35,25,Ring finger,Yes - other,Cell phone,8,15,15,5,15,7,20,1,5,Graduate degree,Country
+WI,2015,7,Male,12,1,10,None,Invisibility,Ambidextrous,Car,5,35,Index finger,Yes - other,Internet chat or instant messaging,0,5,1,0,7,4,300,300,6,Graduate degree,Techno/Electronic
+SC,2014,11,Male,16,8,7,Some,Fly,Right-Handed,Car,10,23,Index finger,Yes - broadband connection,In person,100,100,7,1,2,6,8,2,3,Undergraduate degree,Rock and roll
+CA,2016,11,Female,16,6,5,A lot,Freeze time,Right-Handed,Walk,30,,Ring finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",100,100,17,14,7,14,7,7,10,Other,Country
+AZ,2013,12,Female,17,7,10,A lot,Fly,Right-Handed,Car,15,24,Ring finger,Yes - other,In person,30,30,15,10,2,10,5,3,1,Undergraduate degree,Other
+SC,2013,11,Male,15,6,10,A lot,Freeze time,Right-Handed,Car,10,27,Index finger,Yes - dial-up connection,"Myspace, Facebook, other social networking sites, or blog",6,6,15,15,7,21,7,2,15,Graduate degree,Techno/Electronic
+PA,2017,12,Female,15,7,9,Some,Telepathy,Right-Handed,Bus,10,23.5,Ring finger,Yes - other,Internet chat or instant messaging,20,25,4,10,0,18,4,2,0,Graduate degree,Pop
+MI,2016,12,Female,17,7,9,A lot,Fly,Right-Handed,Car,20,,,Yes - other,Text messaging,50,100,4,5,3,20,14,14,4,Graduate degree,Rap/Hip hop
+PA,2016,12,Male,16,8,10,Some,Invisibility,Right-Handed,Bus,10,25,Ring finger,Yes - broadband connection,Text messaging,20,20,10,12,5,8,10,2,8,Graduate degree,Rock and roll
+CA,2017,12,Male,17,8,8,Some,Telepathy,Right-Handed,Bus,20,29,Ring finger,Yes - broadband connection,Text messaging,34,34,8,4,6,0,12,12,20,Graduate degree,Other
+MD,2016,6,Male,12,9,8,Some,Freeze time,Right-Handed,Bus,15,23,Same length,Yes - broadband connection,In person,0,0,15,15,20,10,0,0,4,Graduate degree,Rap/Hip hop
+OK,2018,11,Female,16,8,11,A lot,Telepathy,Right-Handed,Car,10,21,Ring finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",75,75,6,5,8,1,15,10,2,Other,Pop
+FL,2010,12,Female,17,6,11,A lot,Telepathy,Right-Handed,Car,20,22.5,Ring finger,Yes - broadband connection,Text messaging,154,153,12,16,13,8,2,3,7,Other,Rap/Hip hop
+KS,2015,12,Male,16,7,8,Very little,Telepathy,Left-Handed,Car,8,25,Ring finger,Yes - broadband connection,Text messaging,78,89,10,2,5,0,2,24,0,Undergraduate degree,Other
+MA,2017,8,Female,13,10,11,A lot,Freeze time,Right-Handed,Car,45,22.86,Ring finger,Yes - broadband connection,In person,70,70,40,20,15,10,10,20,2,Graduate degree,Pop
+RI,2015,12,Female,18,6,12,A lot,Fly,Right-Handed,Bus,15,22,Ring finger,Yes - broadband connection,Cell phone,150,200,4,1,3,0,2,2,1,Graduate degree,Pop
+CA,2016,12,Male,17,7,9,Some,Invisibility,Right-Handed,Car,30,24.9,Ring finger,Yes - other,Text messaging,50,19,0,3,8,2,15,0,0,Graduate degree,Other
+WI,2017,11,Male,17,8,6,Some,Invisibility,Right-Handed,Bus,15,28,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",11,14,2,2,5,4,6,5,0,High school,Rock and roll
+KY,2019,7,Female,12,7,3,Very little,Telepathy,Right-Handed,Bus,10,8 1/2,Index finger,Yes - other,Text messaging,2,2,0,0,1,2,9,5,3,Other,Rap/Hip hop
+PA,2011,12,Male,17,5,11,A lot,Freeze time,Right-Handed,Car,8,25,Ring finger,Yes - broadband connection,In person,0,0,10,7,2,6,0,4,0,Other,Other
+CA,2014,6,Female,12,5,5,A lot,Invisibility,Left-Handed,Car,9,23,Same length,Yes - other,In person,0,20,40,15,48,10,2,3,3,Graduate degree,Other
+NY,2016,12,Female,17,6,10,A lot,Freeze time,Right-Handed,Rail (Train/Tram/Subway),70,23,Index finger,Yes - broadband connection,Text messaging,100,90,10,10,0,0,3,10,0,Graduate degree,Reggae
+CA,2018,12,Male,17,6,6,Some,Freeze time,Right-Handed,Car,10,24,Ring finger,Yes - dial-up connection,Cell phone,0,4,2,10,5,2,0,1,0,Undergraduate degree,Classical
+DE,2016,12,Male,17,8,10,A lot,Fly,Right-Handed,Car,35,26.5,Ring finger,Yes - broadband connection,Text messaging,35,35,3,10,6,1,5,8,12,Graduate degree,Rock and roll
+PA,2017,12,Female,16,7,10,Some,Fly,Right-Handed,Walk,3,27,Index finger,Yes - broadband connection,In person,60,60,6,1,6,10,60,50,13,Undergraduate degree,Country
+CA,2013,10,Female,16,7,8,Some,Freeze time,Right-Handed,Car,30,24,Index finger,Yes - broadband connection,In person,10,15,5,16,5,5,4,3,5,Graduate degree,Pop
+VA,2018,4,Male,9,7,7,Very little,Invisibility,Right-Handed,Walk,2,22,Ring finger,Yes - dial-up connection,In person,0,0,5,0,5,2,0,0,1,Some college,Classical
+MN,2015,12,Female,17,4,9,Some,Telepathy,Right-Handed,Boat,7,11,Ring finger,Yes - other,Cell phone,16,10,24,1,0,3,9,3,0,Some college,Heavy metal
+DC,2012,6,Male,11,9.5,9.5,Some,Fly,Right-Handed,Walk,15,22,Ring finger,Yes - broadband connection,Text messaging,47,47,8,3,6,5,6,7,9,Graduate degree,Rap/Hip hop
+NJ,2017,12,Female,17,8,11,Very little,Telepathy,Right-Handed,Car,15,24.1,Index finger,Yes - broadband connection,Text messaging,700,800,10,3,4,2,7,5,5,Graduate degree,Country
+NE,2013,9,Female,16,8,9,Some,Freeze time,Right-Handed,Car,10,27,Ring finger,Yes - broadband connection,Text messaging,20,20,10,10,5,5,5,5,7,Graduate degree,Country
+IN,2018,11,Female,17,8,8,Some,Freeze time,Right-Handed,Car,10,21,Same length,Yes - other,Text messaging,20,45,5,5,7,3,2,2,7,Graduate degree,Rock and roll
+GA,2014,9,Female,15,8,12,A lot,Fly,Right-Handed,Car,10,23,Index finger,Yes - other,Text messaging,500,500,72,5,6,20,50,168,40,Graduate degree,Rap/Hip hop
+WA,2012,12,Male,17,7.5,9,Some,Fly,Right-Handed,Car,13,28,Ring finger,Yes - broadband connection,Text messaging,50,50,10,5,8,14,2,4,0,Graduate degree,Other
+WI,2015,12,Male,17,8,10,Some,Freeze time,Right-Handed,Car,10,26,Same length,Yes - broadband connection,Text messaging,53,56,20,12,8,18,2,1,1,Graduate degree,Rap/Hip hop
+NC,2017,12,Female,16,3.5,5,A lot,Telepathy,Right-Handed,Car,10,23,Index finger,,,50,30,3,7,5,0,10,4,0.2,Graduate degree,Other
+OR,2017,11,Female,16,9,7,Some,Freeze time,Right-Handed,Walk,1,27.94,Same length,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",0,3,9,7,7,8,8,3,7,Graduate degree,Pop
+CA,2015,11,Female,16,10,8,Some,Telepathy,Right-Handed,Bus,8,22.2,,Yes - other,"Myspace, Facebook, other social networking sites, or blog",55,55,7,2,10,6,10,0,2,Some college,Rap/Hip hop
+ID,2014,12,Male,17,8,8,Very little,Fly,Right-Handed,Bus,45,27,Ring finger,Yes - broadband connection,Internet chat or instant messaging,15,10,2,2,5,5,2,2,2,Graduate degree,Other
+TX,2016,12,Male,16,6,9,A lot,Fly,Left-Handed,Car,10,,Ring finger,Yes - other,Text messaging,120,100,1,1,1,1,1,1,1,Graduate degree,Rap/Hip hop
+PA,2018,12,Female,15,7,10,A lot,Invisibility,Right-Handed,Bus,10,70,Same length,Yes - other,"Myspace, Facebook, other social networking sites, or blog",100,50,2,10,5,0,10,1,11,Graduate degree,Other
+CA,2014,7,Female,12,9,9,None,Fly,Right-Handed,Car,5,12,Ring finger,Yes - broadband connection,In person,2,2,7,10,63,6,2,1,11,Graduate degree,Other
+GA,2016,9,Male,15,6,5,Very little,Invisibility,Right-Handed,Car,6,55,Ring finger,Yes - other,Text messaging,5,5,6,4,8,3,7,9,2,Some college,Heavy metal
+TX,2018,6,Female,11,6,10,Some,Fly,Right-Handed,Car,2,27,Same length,Yes - other,Internet chat or instant messaging,60,120,10,2,13,2,4,4,4,Other,Pop
+CA,2013,12,Female,16,5,12,A lot,Fly,Right-Handed,Walk,14,22,Index finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",2,2,4,30,3,10,3,0,0,Graduate degree,Other
+IL,2014,8,Female,14,8,9,Some,Freeze time,Right-Handed,Bus,30,23,Index finger,Yes - other,Text messaging,5,15,8,5,10,6,5,3,6,Graduate degree,Rap/Hip hop
+TX,2017,12,Male,17,8,10,Some,Fly,Right-Handed,Car,5,30,Ring finger,Yes - broadband connection,In person,300,325,15,1,2,15,5,5,10,Graduate degree,Rap/Hip hop
+WI,2017,8,Female,14,7,10,Some,Invisibility,Right-Handed,Car,2,24,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",6,7,4,6,2,7,8,6,1,Some college,Rap/Hip hop
+WI,2015,8,Female,14,8,13,A lot,Telepathy,Right-Handed,Bus,22,24,Ring finger,No internet connection,Internet chat or instant messaging,65,97,10,1,4,1,30,30,45,Some college,Other
+CO,2015,12,Female,17,8,10,Some,Super strength,Right-Handed,Car,6,25,Index finger,Yes - broadband connection,In person,50,50,9,8,8,4,7,1,5,Graduate degree,Other
+IN,2016,12,Female,17,7,9,A lot,Freeze time,Right-Handed,Car,12,23.11,Index finger,Yes - broadband connection,In person,12,8,10,12,14,1,0,7,9,Graduate degree,Punk rock
+MI,2015,12,Female,17,7,12,Some,Telepathy,Right-Handed,Car,5,21,Index finger,Yes - broadband connection,In person,300,300,30,5,9,20,10,30,20,Undergraduate degree,Rap/Hip hop
+CA,2017,12,Male,16,7,8,A lot,Invisibility,Right-Handed,Car,10,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,100,100,1,50,0,1,2,1,0,Graduate degree,Pop
+IN,2014,12,Male,16,6,9,Very little,Telepathy,Right-Handed,Car,10,28,Index finger,Yes - broadband connection,In person,75,75,20,5,20,17,21,40,30,Graduate degree,Rap/Hip hop
+OR,2012,12,Female,16,6,12,A lot,Telepathy,Right-Handed,Car,10,21,Same length,Yes - broadband connection,,0,5,24,1,1,0,1,1,0,Graduate degree,Rock and roll
+CA,2018,12,Male,16,7,8,A lot,Freeze time,Right-Handed,Walk,15,27,Index finger,Yes - broadband connection,Text messaging,200,200,5,15,5,30,0,1,2,Graduate degree,Pop
+NC,2018,10,Male,16,6,9,Very little,Super strength,Right-Handed,Car,10,27.8,Index finger,Yes - broadband connection,Internet chat or instant messaging,50,58,6,2,2,9,5,4,1,Graduate degree,Rap/Hip hop
+TX,2015,5,Male,10,7,10,Some,Invisibility,Right-Handed,Bus,30,250,Index finger,No internet connection,Text messaging,0,0,10,0,0,1,0,0,7,Graduate degree,Techno/Electronic
+IN,2018,12,Male,18,7.5,5,A lot,Invisibility,Right-Handed,Walk,7,25,Same length,Yes - other,"Myspace, Facebook, other social networking sites, or blog",15,13,0,0,0,0,5,5,2,High school,Jazz
+MA,2014,8,Female,13,6,8,A lot,Invisibility,Right-Handed,Car,10,22,Index finger,Yes - other,Text messaging,200,205,10,12,3,3,70,80,20,Graduate degree,Pop
+NY,2015,7,Male,13,4,12,A lot,Fly,Ambidextrous,Bus,45,25,Ring finger,Yes - broadband connection,E-mail,0,0,7,10,7,10,1,1,0,Graduate degree,Techno/Electronic
+SC,2013,11,Male,16,8,7,Very little,Super strength,Right-Handed,Car,15,29,Index finger,Yes - broadband connection,In person,50,50,10,1,10,15,1,2,2,Graduate degree,Other
+NC,2017,11,Female,17,5,12,A lot,,Right-Handed,Car,7,,,,Text messaging,45,56,0,,,0,,,,Other,
+IN,2010,12,Female,16,7,10,A lot,Fly,Right-Handed,Car,10,20.5,Same length,Yes - broadband connection,In person,150,156,45,12,8,12,4,40,9,Graduate degree,Pop
+CA,2015,6,Male,11,8,10,Some,Freeze time,Ambidextrous,Car,5,23,Ring finger,Yes - broadband connection,Text messaging,22,9,1,10,2,2,7,1,2,Graduate degree,Classical
+NY,2017,12,Male,17,6,10,Some,Freeze time,Right-Handed,Rail (Train/Tram/Subway),45,26,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",5,5,7,25,10,0,5,1,0,Undergraduate degree,Pop
+NJ,2012,9,Female,15,7,4,Some,Telepathy,Right-Handed,Car,11,20.5,Ring finger,Yes - broadband connection,Text messaging,77,77,3,10,15,2,50,40,8,Some college,Other
+MA,2017,8,Female,14,8,9,A lot,Telepathy,Right-Handed,Car,6,24,Ring finger,Yes - broadband connection,In person,80,300,20,5,24,8,50,50,50,Graduate degree,Country
+WI,2014,12,Female,17,7,11,Some,Invisibility,Right-Handed,Car,20,23,Ring finger,Yes - other,In person,45,250,1,11,12,8,2,3,5,Graduate degree,Rap/Hip hop
+CA,2016,12,Male,16,7,10,A lot,Telepathy,Right-Handed,Car,10,26,Index finger,Yes - broadband connection,Text messaging,30,35,50,55,10,25,45,50,5,Graduate degree,Rock and roll
+WI,2017,6,Female,12,6,10,A lot,Invisibility,Right-Handed,Car,5,22,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",14,12,3,9,8,10,6,0,0,Graduate degree,Pop
+IL,2017,9,Female,14,5,8,A lot,Telepathy,Right-Handed,Walk,15,22,Index finger,Yes - broadband connection,In person,3,7,5,12,5,5,1,3,24,Graduate degree,Punk rock
+IN,2013,12,Female,18,7,10,Some,Fly,Left-Handed,Car,12,24,Same length,Yes - broadband connection,In person,20,20,15,10,5,10,3,5,5,,Rap/Hip hop
+OH,2018,7,Female,12,8.5,11,A lot,Invisibility,Right-Handed,Car,60,21,Ring finger,Yes - other,In person,50,50,5,4,5,1,2,6,4,Some college,Pop
+NY,2017,6,Male,12,5,2,Very little,Freeze time,Ambidextrous,Bus,10,27,Same length,Yes - other,In person,0,47,4,1,5,2,1,1,8,Graduate degree,Pop
+SC,2019,11,Female,15,8,11,A lot,Fly,Right-Handed,Car,7,22.5,Same length,Yes - broadband connection,,15,10,3,3,6,0,48,48,10,Graduate degree,Pop
+MI,2013,12,Male,17,8,10,Some,Freeze time,Right-Handed,Car,8,27,Same length,Yes - broadband connection,Text messaging,200,240,20,3,12,20,3,8,6,Graduate degree,Other
+NY,2015,12,Female,17,7.5,8,Very little,Telepathy,Right-Handed,Car,12,21,Same length,Yes - other,Text messaging,200,220,6,8,5,22,4,2,1,Graduate degree,Rap/Hip hop
+UT,2015,12,Female,420,420,420,Very little,Telepathy,Ambidextrous,Boat,420,420,Index finger,No internet connection,Telephone,23940,32412,0,0,0,0,168,0,0,Less than high school,Gospel
+OH,2013,12,Male,17,7,8,Some,Fly,Right-Handed,Car,11,30.48,Index finger,Yes - broadband connection,Text messaging,100,100,20,2,2,2,15,15,20,Graduate degree,Punk rock
+WI,2014,11,Male,17,8.5,9,Some,Freeze time,Right-Handed,Rail (Train/Tram/Subway),79,26,Ring finger,Yes - broadband connection,In person,0,4,1,0,20,6,4,1,18,Graduate degree,Other
+OH,2012,4,Male,10,7,6,A lot,Telepathy,Ambidextrous,Car,30,20,Index finger,Yes - other,In person,0,0,7,15,4,4,1,0,5,Graduate degree,Country
+UT,2017,12,Female,16,7,10,Very little,Fly,Right-Handed,Bus,15,25,Ring finger,Yes - other,Cell phone,300,300,15,3,15,8,5,20,15,Graduate degree,Rap/Hip hop
+NC,2015,12,Male,17,6,14,A lot,Super strength,Right-Handed,Car,7,27,Ring finger,Yes - broadband connection,Text messaging,210,300,1,1,1,2,1,1,1,Graduate degree,Country
+PA,2018,12,Male,17,6,11,A lot,Fly,Right-Handed,Bus,25,24,Index finger,Yes - broadband connection,Text messaging,4,6,12,6,2.5,3,0.3,0.3,0,Graduate degree,Techno/Electronic
+CA,2016,12,Male,17,8,9,Very little,Telepathy,Right-Handed,Car,20,,Index finger,Yes - broadband connection,Text messaging,30,30,10,12,8,2,2,2,3,Graduate degree,Rock and roll
+NC,2016,12,Male,17,8,10,Very little,Telepathy,Right-Handed,Car,15,27,Same length,Yes - broadband connection,In person,15,17,8,1,1,6,2,1,12,Graduate degree,Pop
+IN,2014,12,Female,16,6.5,8,Some,Telepathy,Right-Handed,Car,10,24,Ring finger,No internet connection,Internet chat or instant messaging,10,10,3,30,2,0,1,2,0,Graduate degree,Classical
+CA,2018,12,Female,17,8,9,A lot,Fly,Right-Handed,Car,5,23,Index finger,Yes - broadband connection,Cell phone,100,100,10,10,4,10,10,10,6,Graduate degree,Rhythm and blues (R&B)
+DE,2018,12,Male,17,7,9,Some,Invisibility,Right-Handed,Car,7,27.5,Same length,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",15,15,10,4.5,3,11,15,4,5,Undergraduate degree,Rap/Hip hop
+AZ,2012,12,Female,17,5,8,A lot,Telepathy,,Car,9,17,Ring finger,Yes - broadband connection,Cell phone,21,22,5,13,7,5,8,3,2,Graduate degree,Rock and roll
+FL,2015,11,Male,16,6,10,Some,Super strength,Left-Handed,Bus,10,28,Same length,Yes - broadband connection,In person,12,,10,3,2,15,3,1,4,Some college,Rhythm and blues (R&B)
+NC,2016,6,Female,11,7,8,Some,Invisibility,Right-Handed,Bus,89,23,Index finger,Yes - other,Text messaging,78,90,0,3,6,15,75,89,87,Graduate degree,Punk rock
+UT,2016,12,Female,17,5,5,A lot,Invisibility,Right-Handed,Car,6,23,Ring finger,Yes - other,Internet chat or instant messaging,0,0,0,1,1,2,8,5,5,Other,Reggae
+CA,2014,5,Female,10,8,10,Very little,Telepathy,Right-Handed,Car,13,20.5,Index finger,Yes - other,Text messaging,100,105,30,5,15,4,1,5,20,Other,Rap/Hip hop
+GA,2010,12,Female,17,8,9,A lot,Telepathy,Right-Handed,Car,11,9.5,Index finger,Yes - broadband connection,Text messaging,32,40,24,2,14,10,2,154,4,Graduate degree,Country
+SC,2015,11,Male,15,7,10,Very little,Freeze time,Right-Handed,Car,10,25,Ring finger,Yes - broadband connection,Text messaging,10,10,38,10,40,2,1,5,10,Graduate degree,Rock and roll
+NC,2014,10,Female,17,7,10,A lot,Freeze time,Right-Handed,Car,7,23.5,Ring finger,Yes - broadband connection,Text messaging,214,240,47,0,0,0,15,80,5,Undergraduate degree,Gospel
+CA,2017,7,Male,12,8,9,Very little,Fly,Right-Handed,Car,20,25,Ring finger,Yes - broadband connection,Text messaging,25,50,2,3,4,2,2,2,2,Graduate degree,Rap/Hip hop
+CA,2016,12,Male,18,7,8.5,Some,Freeze time,Left-Handed,Bus,30,170,Same length,Yes - broadband connection,Cell phone,16,15,8,8,5,2,8,1,4,Graduate degree,Rap/Hip hop
+NE,2012,12,Female,17,8,11,Very little,Telepathy,Left-Handed,Car,10,25,Ring finger,Yes - broadband connection,In person,100,100,65,7,20,25,10,7,3,Graduate degree,Country
+CA,2016,4,Male,16,7,10,Some,Freeze time,Right-Handed,Car,20,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,500,400,1,16,6,0,2,10,0,Graduate degree,Techno/Electronic
+CA,2015,10,Female,15,7,9,Some,Invisibility,Right-Handed,Car,5,22,Ring finger,Yes - broadband connection,E-mail,2,0,2,2,1,3,3,6,0,Graduate degree,Pop
+TX,2017,12,Female,17,8,9,Some,Fly,Right-Handed,Car,12,25,Ring finger,Yes - broadband connection,In person,50,70,10,20,4,2,2,2,5,Graduate degree,Country
+CO,2015,12,Male,18,7.5,8,Very little,Telepathy,Right-Handed,Car,20,28,Ring finger,Yes - broadband connection,Internet chat or instant messaging,2,2,115.5,10,48,2.5,0,40,0,Undergraduate degree,Pop
+WI,2018,12,Female,17,7,8,Some,Telepathy,Left-Handed,Car,1,24,Ring finger,Yes - broadband connection,Text messaging,5,10,19,4,1,10,3,1,8,Graduate degree,Country
+CA,2016,7,Male,12,9,9,Very little,Fly,Right-Handed,Car,8,25,Ring finger,Yes - other,Text messaging,5,10,2,5,3,6,8,2,4,Graduate degree,Rap/Hip hop
+OH,2016,12,Female,21,7,8,Some,Telepathy,Left-Handed,Walk,15,,,Yes - other,Text messaging,500,500,15,15,5,5,10,10,10,Graduate degree,Pop
+OK,2013,12,Male,17,5,8,Some,Freeze time,Right-Handed,Car,10,26,Index finger,Yes - other,Text messaging,65,65,4,30,3.5,1,1,7,3,Other,Other
+NE,2017,10,Female,17,6,8,A lot,,Right-Handed,Car,5,12,Index finger,Yes - broadband connection,Text messaging,12,12,20,3,5,10,5,2,2,,
+CA,2018,12,Female,17,7,9,Very little,Telepathy,Right-Handed,Walk,10,20,Index finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",30,40,6,2,9,2,6,0,4,Graduate degree,Rap/Hip hop
+MI,2013,11,Male,17,7,12,Some,Freeze time,Right-Handed,Car,7,80,Same length,Yes - broadband connection,In person,55,56,12,21,13,12,4,6,8,Graduate degree,Rap/Hip hop
+TX,2017,12,Male,17,7,9,Some,Freeze time,Right-Handed,Bus,20,30,Same length,Yes - broadband connection,Text messaging,20,10,21,0,7,0,0,1,14,Some college,Rock and roll
+FL,2011,12,Female,17,8,10,Some,Telepathy,Right-Handed,Car,15,21,Ring finger,Yes - broadband connection,Text messaging,36,35,45,10,46,15,12,24,5,Graduate degree,Pop
+IL,2017,8,Female,13,8,9,Some,Super strength,Right-Handed,Car,3,23.5,Same length,Yes - broadband connection,In person,29,29,5,7.5,10,3,8,3,1,Graduate degree,Jazz
+CA,2015,5,Female,10,10,12,Very little,Fly,Right-Handed,Car,0.75,22.5,Ring finger,Yes - broadband connection,Text messaging,0,89,0,5,3,4,1,1,0.5,Graduate degree,Pop
+WI,2013,8,Female,13,9,10,None,Fly,Right-Handed,Car,5,22,Ring finger,Yes - broadband connection,Text messaging,10,8,5,7,7,5,3,5,3,Graduate degree,Pop
+NC,2017,10,Female,14,7,9,A lot,Invisibility,Right-Handed,Car,10,23,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",40,100,1,35,2,25,2,1,5,Graduate degree,Pop
+PA,2015,12,Female,17,7,8,A lot,Telepathy,Right-Handed,Car,13,24,Ring finger,Yes - broadband connection,Text messaging,2000,2000,10,3,5,4,30,100,6,Some college,Rap/Hip hop
+MT,2015,11,Female,17,6,10,Some,Invisibility,Right-Handed,Car,10,22,Ring finger,Yes - other,In person,200,200,30,3,15,6,10,20,2,Some college,Rap/Hip hop
+IL,2015,12,Male,17,7,5,A lot,Telepathy,Right-Handed,Car,15,27,Index finger,Yes - dial-up connection,Text messaging,40,40,6,4,4,0,4,4,0,Graduate degree,Techno/Electronic
+FL,2013,12,Female,17,8,9,Very little,Telepathy,Right-Handed,Car,2,25,Index finger,Yes - broadband connection,Text messaging,100,100,5,3,2,23,3,2,2,Undergraduate degree,Rap/Hip hop
+OH,2015,8,Female,14,7,10,Some,Freeze time,Right-Handed,Car,5,23,Index finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",21,46,4,4,5,3,3,0.5,2,Graduate degree,Other
+NC,2012,12,Female,17,4,7,Some,Fly,Right-Handed,Car,15,30,Ring finger,Yes - broadband connection,In person,800,800,10,8,2,6,4,125,3,Graduate degree,Other
+CA,2018,12,Male,17,7,11,A lot,Super strength,Right-Handed,Bus,45,165,Index finger,Yes - broadband connection,Internet chat or instant messaging,18,7,11,6,0,7,30,4,0,Graduate degree,Pop
+MO,2015,12,Male,17,5,7,A lot,Freeze time,Right-Handed,Car,15,35,Ring finger,Yes - broadband connection,Text messaging,5,10,6,20,12,15,3,3,1,Graduate degree,Techno/Electronic
+TN,2018,12,Female,17,8,11,Some,Telepathy,Right-Handed,Car,5,23,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",200,199,20,10,2,50,100,100,0,Other,Rhythm and blues (R&B)
+CA,2011,12,Female,16,8,9,A lot,Telepathy,Right-Handed,Car,15,24,Ring finger,Yes - broadband connection,Internet chat or instant messaging,20,20,10,12,7,5,9,14,7,Undergraduate degree,Pop
+NM,2014,12,Male,18,7.5,9,A lot,Telepathy,Right-Handed,Car,25,24,Index finger,Yes - broadband connection,Text messaging,50,60,6,15,10,5,10,7,15,Graduate degree,Country
+WI,2013,8,Male,12,10,12,A lot,Super strength,Left-Handed,Bus,25,24,Index finger,Yes - broadband connection,Text messaging,19,27,6,2,2,5,2,1,3,Graduate degree,Pop
+FL,2011,12,Female,18,6,8,A lot,Freeze time,Right-Handed,Car,15,24,Same length,Yes - broadband connection,Text messaging,100,150,4,2,7,0,5,10,10,High school,Rap/Hip hop
+MO,2015,12,Male,17,7,,Very little,Freeze time,Right-Handed,Car,15,26,Same length,Yes - broadband connection,,1,4,5,10,10,2,6,6,3,Graduate degree,Pop
+MA,2018,12,Female,17,6,8,Some,Fly,Right-Handed,Car,8,24,Ring finger,Yes - broadband connection,Text messaging,120,116,116,5,10,0,90,89,10,Some college,Rap/Hip hop
+WI,2018,11,Female,17,6,8,A lot,Super strength,Right-Handed,Bus,10,23.5,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",20,35,10,6,5,5,8,10,1,Graduate degree,Rap/Hip hop
+PA,2016,12,Female,18,7,10,Some,Telepathy,Right-Handed,Car,4,23,Index finger,Yes - broadband connection,Text messaging,4,14,4,1,8,3,4,2,4,Undergraduate degree,Pop
+MD,2012,10,Male,15,7,9,A lot,Freeze time,Right-Handed,Car,10,28,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",4,6,24,6,1,0,3,1,5,Graduate degree,Techno/Electronic
+CA,2014,12,Male,18,8,10,A lot,Freeze time,Left-Handed,Car,15,11.75,Ring finger,Yes - broadband connection,Text messaging,100,99,20,10,4,16,4,8,10,Graduate degree,Techno/Electronic
+FL,2013,12,Male,17,6,11,A lot,Freeze time,Right-Handed,Car,20,28,Ring finger,Yes - broadband connection,In person,100,100,40,24,32,16,15,35,10,Graduate degree,Techno/Electronic
+NC,2018,12,Female,16,5,,A lot,Super strength,Right-Handed,Bus,62,23.8,,Yes - broadband connection,Text messaging,5,8,0,13,5,0,10,1,0,Graduate degree,Other
+CA,2013,7,Female,12,10,8,None,Telepathy,Right-Handed,Car,10,,,Yes - broadband connection,E-mail,0,0,3,1,30,1,1,0,6,Graduate degree,Classical
+GA,2011,6,Male,11,10,8,Some,Fly,Right-Handed,Bus,30,23,Index finger,Yes - broadband connection,In person,0,0,5,7,1,8,1,0,3,Graduate degree,Rap/Hip hop
+PA,2019,4,Male,10,8,4,Some,Telepathy,Right-Handed,Bus,5,34,Same length,Yes - other,In person,0,0,88,88,88,88,88,88,88,Other,
+TX,2016,12,Male,18,5,12,A lot,Freeze time,Right-Handed,Bus,57,24,Ring finger,Yes - broadband connection,,200,80,40,5,10,2,10,21,1,Graduate degree,Reggae
+CA,2015,12,Female,17,8,6,Some,Fly,Right-Handed,Walk,5,24,,Yes - dial-up connection,Text messaging,80,83,150,12,1200,6,9,1200,4,Graduate degree,Other
+TX,2011,12,Male,17,6,10,Some,Freeze time,Left-Handed,Car,12,27.01,Ring finger,Yes - broadband connection,In person,0,3,20,18,3,6,0,0,10,Graduate degree,Rock and roll
+TX,2014,12,Male,17,8,8,Some,Super strength,Right-Handed,Car,20,30,Ring finger,Yes - broadband connection,Cell phone,5,5,10,8,4,10,4,7,3,Undergraduate degree,Rap/Hip hop
+WA,2016,9,Female,14,7,5,Some,Invisibility,Right-Handed,Car,10,23.5,Ring finger,Yes - broadband connection,Text messaging,1,2,0,5,2,0,2,3,1,Graduate degree,Classical
+PA,2012,11,Female,16,6,8,A lot,Telepathy,Right-Handed,Bus,10,23.3,Same length,Yes - other,In person,2,4,5,10,15,4,4,5,3,Graduate degree,Pop
+IN,2018,12,Female,17,5,8,Some,Telepathy,Left-Handed,Car,5,21.59,Ring finger,Yes - other,Text messaging,5,8,9,10,7,10,15,12,12,Graduate degree,Rhythm and blues (R&B)
+TX,2017,12,Male,18,7,9,Some,Telepathy,Ambidextrous,Car,4,29,Same length,Yes - broadband connection,In person,80,100,15,8,3,9,3,4,6,Graduate degree,Rap/Hip hop
+TX,2016,12,Male,17,7,8,A lot,Super strength,Right-Handed,Car,25,24.13,Ring finger,Yes - broadband connection,Text messaging,50,25,15,12,8,15,3,5,15,Graduate degree,Rap/Hip hop
+WI,2014,8,Female,13,5,4,A lot,Telepathy,Right-Handed,Bus,30,7,Index finger,Yes - other,Text messaging,30,30,6,7,8,6,8,12,1,Other,Other
+FL,2018,12,Male,15,6,4,Some,Freeze time,Right-Handed,Car,15,26,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",3,25,,,,,,,,Graduate degree,Rap/Hip hop
+AK,2017,12,Female,16,8,10,Some,Telepathy,Right-Handed,Bus,17,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,50,50,0,4,24,0,12,12,12,Undergraduate degree,Rhythm and blues (R&B)
+WI,2015,8,Male,13,8,13,A lot,Freeze time,Right-Handed,Bus,95,28,Same length,Yes - other,Text messaging,3,15,1,1,2,10,2,1,3,Some college,Rap/Hip hop
+NC,2015,12,Female,18,7,10,Some,Invisibility,Right-Handed,Car,7,22,Index finger,Yes - broadband connection,Text messaging,217,250,15,0,40,4,100,140,18,Graduate degree,Country
+OR,2014,12,Female,16,8,10,A lot,Fly,Right-Handed,Bus,15,25,Same length,Yes - broadband connection,Text messaging,5,4,30,6,4,6,2,1,14,Graduate degree,Other
+MD,2015,10,Male,16,7,11,Some,Fly,Ambidextrous,Bus,60,26,Ring finger,Yes - broadband connection,Text messaging,100,200,24,2,4,48,3,24,1,Graduate degree,Rap/Hip hop
+WI,2016,12,Female,17,7,8,Some,Fly,Right-Handed,Car,12,22,Index finger,Yes - broadband connection,In person,1,3,5,18,15,14,2,2,5,Graduate degree,Pop
+GA,2016,11,Female,19,5,12,A lot,Telepathy,Right-Handed,Bus,20,25.5,Index finger,No internet connection,"Myspace, Facebook, other social networking sites, or blog",10,10,7,0,7,0,6,7,2,Other,Rap/Hip hop
+MO,2017,12,Female,18,6,8,Some,Telepathy,Right-Handed,Walk,2,21,Ring finger,Yes - broadband connection,In person,70,100,20,24,0,7,5,3,0,Undergraduate degree,Other
+CA,2017,12,Male,18,6.5,8,A lot,Fly,Right-Handed,Car,20,28,Ring finger,Yes - broadband connection,Internet chat or instant messaging,42,34,10,25,6,22,20,1,1,Graduate degree,Rap/Hip hop
+WI,2014,12,Female,17,7,9,A lot,Fly,Ambidextrous,Car,5,26,Ring finger,Yes - other,Text messaging,200,200,26,6,10,20,70,75,18,Undergraduate degree,Rap/Hip hop
+IN,2014,12,Female,18,6,5,Some,Telepathy,Right-Handed,Car,15,22,Same length,Yes - other,Cell phone,28,30,0,4,5,0,6,4,5,Undergraduate degree,Pop
+CA,2018,9,Female,14,7,9,Some,Telepathy,Right-Handed,Car,20,29,Ring finger,Yes - broadband connection,Text messaging,20,20,24,6,6,7,7,3,5,Some college,Other
+GU,2014,8,Male,14,7,3,Some,Telepathy,Right-Handed,Car,10,27,Index finger,Yes - broadband connection,Other,0,0,0,2,0,3,3,0,16,Graduate degree,Country
+PA,2010,4,Male,10,11,13,A lot,Telepathy,Right-Handed,Car,10,70,Ring finger,Yes - broadband connection,In person,0,0,1,5,9,1,0,0,1,Undergraduate degree,Rap/Hip hop
+NJ,2012,9,Male,14,9,12,A lot,Telepathy,Right-Handed,Bus,30,26,Ring finger,Yes - broadband connection,Text messaging,400,400,10,2,0,5,3,10,8,Graduate degree,Rap/Hip hop
+CT,2013,12,Male,18,9,5,Some,Freeze time,Ambidextrous,Bus,35,26,,Yes - broadband connection,Text messaging,50,50,55,20,60,18,90,90,50,Graduate degree,Rap/Hip hop
+RI,2013,6,Male,12,7,6,Some,Telepathy,Right-Handed,Car,5,24,Index finger,Yes - broadband connection,Internet chat or instant messaging,1,2,,1.5,1,0.5,0.5,1,2,Graduate degree,Other
+CA,2016,12,Male,17,8,10,Very little,Freeze time,Right-Handed,Car,13,27,Ring finger,Yes - broadband connection,In person,5,5,6,5,3,15,0,0,0,Undergraduate degree,Rock and roll
+CA,2011,12,Male,17,8,7,Some,Freeze time,Right-Handed,Car,8,25,Ring finger,Yes - broadband connection,In person,0,0,5,3,7,2,1,20,7,Graduate degree,Classical
+CA,2015,6,Female,12,7,13,Some,Fly,Right-Handed,Car,10,23,Index finger,Yes - broadband connection,In person,27,30,5,1,168,2,2,1,6,Graduate degree,Pop
+IL,2014,8,Male,14,10,9,Very little,Invisibility,Left-Handed,Car,7,23,Index finger,Yes - broadband connection,Text messaging,2,3,30,15,12,9,1,3,15,Graduate degree,Techno/Electronic
+MO,2017,11,Male,16,8,11,Very little,Telepathy,Right-Handed,Car,50,28,Ring finger,Yes - other,Text messaging,8,9,15,10,50,30,20,8,19,Graduate degree,Rap/Hip hop
+OH,2016,8,Female,13,8,10,Some,Fly,Right-Handed,Car,30,25,Ring finger,Yes - broadband connection,In person,0,0,5,15,2,0,0,0,2,Undergraduate degree,Rock and roll
+SC,2016,11,Female,16,4,7,A lot,Invisibility,Right-Handed,Walk,5,25,Same length,Yes - other,In person,0,0,15,3,10,2,5,2,12,Graduate degree,Heavy metal
+MI,2013,4,Female,15,8,10,A lot,Telepathy,Ambidextrous,Bus,15,25,Same length,Yes - other,"Myspace, Facebook, other social networking sites, or blog",10,10,3,15,20,3,10,1,5,Graduate degree,Pop
+NJ,2016,12,Female,18,8,8,Very little,Invisibility,Left-Handed,Car,6,22,Index finger,Yes - broadband connection,In person,30,100,10,2,2,14,10,8,1,Graduate degree,Rhythm and blues (R&B)
+MO,2017,11,Male,16,8,6,Some,Telepathy,Right-Handed,Car,23,26,Index finger,Yes - broadband connection,Text messaging,35,70,10,10,4,10,2,6,5,Graduate degree,Country
+NM,2016,12,Female,17,8,10,A lot,Fly,Right-Handed,Car,11,26,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",50,50,40,5,35,0,20,20,40,Graduate degree,Other
+CA,2018,8,Male,13,9,9,Some,Fly,Right-Handed,Walk,6,26,Ring finger,Yes - broadband connection,Text messaging,22,136,47,5,2,10,1,2,1,Graduate degree,Rap/Hip hop
+CA,2019,12,Female,20,8,6,Some,Freeze time,Right-Handed,Car,60,20,Index finger,Yes - other,In person,0,1,2,1,0,0,4,0,1,Less than high school,Rock and roll
+CT,2017,12,Female,17,7,10,A lot,Freeze time,Right-Handed,Bus,70,24.2,Index finger,Yes - other,Text messaging,32,40,10,10,15,0,20,20,2,Graduate degree,Pop
+CA,2015,8,Female,14,7,10,A lot,Super strength,Left-Handed,Car,30,27,Index finger,Yes - broadband connection,Text messaging,20,30,168,1,0,50,168,168,0,Graduate degree,Pop
+CA,2018,11,Male,16,7,9,A lot,Freeze time,Right-Handed,Car,15,28,Index finger,Yes - broadband connection,Text messaging,10,15,,,,,,,,Graduate degree,Pop
+NJ,2018,11,Male,17,8,5,A lot,Fly,Left-Handed,Car,20,28,Ring finger,Yes - other,In person,0,0,8,7,8,9,11,2,1,Other,Other
+MA,2017,12,Male,17,6.5,7,A lot,Telepathy,Right-Handed,Bus,20,26,Index finger,Yes - broadband connection,Internet chat or instant messaging,600,500,1,15,2,1,4,2,4,Graduate degree,Rap/Hip hop
+OH,2018,12,Male,18,7,9,Some,Invisibility,Right-Handed,Car,3,26,,Yes - broadband connection,Text messaging,100,300,12,3,7,18,10,10,3,Graduate degree,Rhythm and blues (R&B)
+WI,2014,12,Female,17,8.5,10,Some,Telepathy,Right-Handed,Car,5,26,Index finger,Yes - broadband connection,Text messaging,40,80,25,1.5,20,5,1,6,5,Graduate degree,Techno/Electronic
+MO,2018,12,Male,15,8,11,A lot,Telepathy,Right-Handed,Walk,4,28,Ring finger,Yes - other,In person,26,41,12,14,1,10,3,5,1,Graduate degree,Rap/Hip hop
+CO,2018,7,Male,13,5,7,A lot,Telepathy,Right-Handed,Walk,5,29,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",90,100,9,20,4,6,50,2,1,Other,Techno/Electronic
+SC,2012,11,Male,17,6,4,Some,Super strength,Right-Handed,Car,10,31,Same length,Yes - other,Cell phone,400,450,10,14,1,14,2,30,3,Graduate degree,Rap/Hip hop
+IN,2013,12,Male,17,6.5,6,Very little,Telepathy,Right-Handed,Car,12,28,Ring finger,Yes - broadband connection,Text messaging,16,17,12,1,10,12,4,4,12,Graduate degree,Rock and roll
+NJ,2018,11,Male,16,9,12,Some,Super strength,Left-Handed,Bus,45,26,Ring finger,Yes - other,Cell phone,1,2,,,,,,,,High school,Rock and roll
+NE,2017,12,Male,17,8,9,Very little,Freeze time,Right-Handed,Car,15,28,Ring finger,Yes - broadband connection,In person,120,120,7,4,5,15,2,5,5,Graduate degree,Rock and roll
+CT,2018,12,Female,17,4,10,Some,Invisibility,Right-Handed,Bus,30,21.59,Ring finger,Yes - other,Internet chat or instant messaging,10,15,45,15,30,5,40,105,70,Undergraduate degree,Reggae
+NJ,2017,12,Female,17,8.5,9,Some,Telepathy,Right-Handed,Car,8,24.8,Index finger,Yes - broadband connection,Text messaging,250,275,10,10,9,8,4,5,9,Graduate degree,Country
+PA,2015,12,Male,17,7,9,Some,Fly,Right-Handed,Car,5,28,Same length,Yes - broadband connection,Text messaging,15,30,21,25,14,10,7,7,14,Graduate degree,Other
+TX,2017,11,Male,17,7,10,Some,Super strength,Right-Handed,Car,15,29,Ring finger,Yes - broadband connection,Internet chat or instant messaging,60,60,5,2,0,0,0,1,1,Some college,Punk rock
+NC,2014,7,Male,13,8,6,Very little,Fly,Right-Handed,Car,10,27,Same length,Yes - dial-up connection,In person,0,0,8,1,3,8,1,0,3,Some college,Country
+GA,2010,11,Female,17,6,11,A lot,Telepathy,Right-Handed,Car,2,25,Index finger,Yes - other,Text messaging,50,65,10,20,2,14,2,6,6,Graduate degree,Rock and roll
+NY,2015,6,Male,12,8,8,Very little,Telepathy,Left-Handed,Bus,60,28,Index finger,Yes - other,Internet chat or instant messaging,6,5,15,4,10,12,1,5,1,Graduate degree,Classical
+CA,2011,12,Male,17,7,9,A lot,Freeze time,Right-Handed,Car,7,26,Ring finger,Yes - broadband connection,Text messaging,32,36,3,5,6,11,3,2,8,Undergraduate degree,Rap/Hip hop
+CA,2016,12,Male,16,7,10,Some,Freeze time,Right-Handed,Car,35,,Ring finger,Yes - broadband connection,Text messaging,20,20,0,8,4,14,10,10,10,Graduate degree,Country
+WI,2014,12,Male,17,8,6,A lot,Invisibility,Right-Handed,Car,9,29,Ring finger,Yes - dial-up connection,Text messaging,30,50,12,8,5,3,1,2,10,Undergraduate degree,Rap/Hip hop
+MN,2014,11,Female,16,5,9,Some,Telepathy,Right-Handed,Car,5,18,Ring finger,Yes - other,Text messaging,100,110,22,8,7,3,15,15,0.5,Graduate degree,Country
+SC,2018,11,Female,17,7,8,Some,Telepathy,Right-Handed,Car,4,22,Index finger,Yes - other,In person,120,139,4,1,1,0,15,3,15,Graduate degree,Rhythm and blues (R&B)
+NC,2017,11,Female,18,6,10,A lot,Telepathy,Right-Handed,Car,7,23,Index finger,Yes - broadband connection,Text messaging,75,75,7,15,10,3,6,4,2,Graduate degree,Classical
+PA,2016,12,Female,17,8,11,Some,Freeze time,Right-Handed,Car,15,24,Index finger,Yes - broadband connection,Text messaging,200,200,20,8,30,12,12,24,14,Undergraduate degree,Pop
+FL,2017,6,Female,11,9,7,Some,Freeze time,Right-Handed,Bus,15,21,Ring finger,Yes - broadband connection,Internet chat or instant messaging,2,30,70,30,70,10,60,30,70,High school,Pop
+PA,2010,11,Male,16,6,10,Some,Fly,Right-Handed,Car,10,27,Same length,Yes - other,Cell phone,50,50,10,2.5,2,3,5,2.5,10,Graduate degree,Rap/Hip hop
+CA,2016,11,Male,17,8,6,None,Invisibility,Right-Handed,Walk,10,27,Ring finger,Yes - broadband connection,Text messaging,8,8,4,2,5,1,5,0,1,Graduate degree,Rap/Hip hop
+TX,2016,12,Male,17,6,10,A lot,Super strength,Right-Handed,Car,30,27.5,Ring finger,Yes - broadband connection,Internet chat or instant messaging,0,2,60,50,7,0,5,50,0,Graduate degree,Techno/Electronic
+TX,2015,4,Male,9,10,10,None,Freeze time,Right-Handed,Car,1,19,Index finger,Yes - other,In person,0,0,2,1,3,1,1,0,5,Graduate degree,Techno/Electronic
+IL,2016,6,Male,12,8,6,A lot,Super strength,Right-Handed,Bicycle,10,26,Index finger,Yes - dial-up connection,Text messaging,100,100,7,8,8,9,9,9,4,Graduate degree,Rap/Hip hop
+MA,2018,12,Female,17,6,10,A lot,Telepathy,Right-Handed,Bus,20,22,Index finger,Yes - other,Cell phone,5,6,4,12,1,0,2,1,0,Graduate degree,Rap/Hip hop
+CT,2015,11,Male,17,5,12,Some,Invisibility,Right-Handed,Bus,15,11,Ring finger,Yes - broadband connection,Cell phone,0,10000,24,0,2,10,10,12,10000,Graduate degree,Rap/Hip hop
+IA,2014,12,Female,17,6,8,Some,Telepathy,Right-Handed,Car,3,23,Ring finger,Yes - other,Text messaging,50,50,35,8,1,15,10,10,10,Undergraduate degree,Country
+CA,2016,11,Male,15,6,8,A lot,Freeze time,Right-Handed,Walk,15,27,Same length,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",10,10,10,15,0,20,5,2,0,Some college,Techno/Electronic
+FL,2015,12,Female,16,7,10,A lot,Telepathy,Right-Handed,Car,10,22.8,Index finger,Yes - broadband connection,Text messaging,50,51,4,15,2,12,2,1,2,Graduate degree,Pop
+TX,2012,12,Female,17,6,9,A lot,Telepathy,Right-Handed,Car,3,26,Index finger,Yes - broadband connection,Text messaging,40,49,10,35,10,20,5,2,7,Graduate degree,Rhythm and blues (R&B)
+OH,2018,12,Female,16,7,12,Some,Telepathy,Right-Handed,Car,25,23,Ring finger,Yes - broadband connection,Text messaging,10,50,10,6,0,0,30,1,4,Undergraduate degree,Techno/Electronic
+FL,2018,12,Female,17,8,10,A lot,Telepathy,Right-Handed,Car,15,23.5,Index finger,Yes - broadband connection,Text messaging,100,105,20,120,50,7,3,5,10,Graduate degree,Pop
+MI,2016,12,Male,16,3,5,A lot,Telepathy,Right-Handed,Car,7,22,Ring finger,Yes - broadband connection,Text messaging,148,524,6,12,3,20,7,5,0,Graduate degree,Pop
+CT,2016,9,Female,17,5,6,Some,Telepathy,Right-Handed,Car,14,23.2,Index finger,,Cell phone,30,40,0,28,11,0,5,29,21,Graduate degree,Rap/Hip hop
+CA,2018,12,Female,17,6,8,A lot,Invisibility,Right-Handed,Car,40,24,Same length,Yes - broadband connection,Text messaging,70,25,0,28,10,0,21,1,1,Undergraduate degree,Other
+NJ,2012,12,Female,17,7,12,A lot,Fly,Right-Handed,Car,5,25,Same length,Yes - broadband connection,In person,10,12,7,9,17,14,4,3,8,Graduate degree,Pop
+DE,2016,12,Male,17,7,9,Some,Invisibility,Right-Handed,Car,25,28,,Yes - broadband connection,Text messaging,15,15,5,12,20,3,0,20,30,Undergraduate degree,Rock and roll
+MN,2017,12,Male,17,7,8,Very little,Freeze time,Ambidextrous,Bicycle,18,27.5,Ring finger,Yes - dial-up connection,"Myspace, Facebook, other social networking sites, or blog",80,100,6,2.5,8.5,10,3,10,4,High school,Rhythm and blues (R&B)
+MI,2016,12,Male,17,8,11,Some,Invisibility,Right-Handed,Car,3,30,Ring finger,Yes - broadband connection,Text messaging,20,40,15,5,10,20,2,10,5,Graduate degree,Techno/Electronic
+SC,2013,11,Female,16,6,8,Some,Fly,Right-Handed,Car,26,24.13,Index finger,Yes - broadband connection,Text messaging,100,100,4,3,4,2,122,100,6,Graduate degree,Country
+NY,2018,10,Female,16,8,10,Some,Freeze time,Right-Handed,Bus,30,27,Same length,Yes - other,In person,2,3,26,4,20,0,10,0,1,Some college,Rap/Hip hop
+MA,2013,5,Female,10,8,3,Some,Freeze time,Right-Handed,Car,10,22,Index finger,Yes - other,Text messaging,4,10,10,8,5,2,0,10,4,Some college,Rock and roll
+VA,2015,12,Male,17,5.5,7,Some,Freeze time,Right-Handed,Car,15,27.5,Ring finger,Yes - broadband connection,Text messaging,5,5,1,1,1,27,0.5,0.1,1,Graduate degree,Country
+IN,2016,12,Male,18,7,10,Very little,Super strength,Right-Handed,Car,15,29,Same length,Yes - broadband connection,Text messaging,4,2,10,5,25,2,15,5,4,Graduate degree,Rock and roll
+VA,2018,12,Female,83,32432,32432,Some,Super strength,Right-Handed,Skateboard/Scooter/Rollerblade,32432,43243,Same length,Yes - other,Text messaging,32322,32332,32433,32432,43243,23223,33232,4332,4223,Other,Techno/Electronic
+CA,2016,11,Female,16,8,9,A lot,Freeze time,Right-Handed,Walk,13,22,Same length,Yes - other,Internet chat or instant messaging,30,30,10,14,15,3,10,8,5,Graduate degree,Pop
+IN,2018,12,Male,17,8,10,Some,Telepathy,Right-Handed,Walk,10,25.5,Ring finger,Yes - other,Text messaging,65,70,7,10,7,4,15,10,10,Graduate degree,Other
+NC,2015,12,Female,17,6,10,Some,Fly,Right-Handed,Car,5,23,Ring finger,Yes - broadband connection,Text messaging,75,85,,,,,,,,Graduate degree,Other
+SC,2013,11,Male,16,7,12,Some,Invisibility,Right-Handed,Bus,60,20,Ring finger,Yes - broadband connection,Text messaging,30,30,1,10,1,0,30,50,15,Graduate degree,Heavy metal
+OH,2015,4,Male,10,4,1,A lot,Freeze time,Right-Handed,Car,60,,Index finger,,In person,0,0,5,2,2,1,,,,Graduate degree,Rap/Hip hop
+VA,2014,12,Male,17,8,10,A lot,Fly,Right-Handed,Bus,30,27,Ring finger,Yes - broadband connection,In person,0,0,3,35,10,14,0,0,3,Graduate degree,Rock and roll
+FL,2013,12,Male,17,8,10,A lot,Fly,Right-Handed,Car,19,26,Index finger,Yes - broadband connection,In person,20,26,80,2.5,40,10,1.5,2,1,Graduate degree,Reggae
+SC,2012,11,Male,16,8,11,Some,Invisibility,Right-Handed,Car,15,27,Ring finger,Yes - other,Text messaging,15,15,15,2,1,2,2,3,4,Graduate degree,Rap/Hip hop
+NY,2011,12,Male,17,8,10,Some,Freeze time,Right-Handed,Car,10,24,Ring finger,Yes - broadband connection,Text messaging,125,125,15,12,6,4,7,10,10,Graduate degree,Rap/Hip hop
+IL,2014,6,Female,11,11,8,Some,Fly,Right-Handed,Car,5,25,Same length,Yes - other,Text messaging,25,25,8,3,9,4,5,5,2,Graduate degree,Country
+VA,2015,12,Male,15,6,12,None,Telepathy,Right-Handed,Car,5,23,Ring finger,Yes - broadband connection,Text messaging,18,20,5,1,0,0,0,5,2,Undergraduate degree,Heavy metal
+TX,2018,12,Male,17,6,8,A lot,Telepathy,Right-Handed,Car,12,26,Index finger,Yes - broadband connection,In person,30,50,2,6,10,12,7,3,10,Graduate degree,Rock and roll
+CA,2018,6,Female,10,8,9,Some,Freeze time,Right-Handed,Car,48,20,Ring finger,No internet connection,Internet chat or instant messaging,0,0,0,2,9,0,0,1,1,Graduate degree,Techno/Electronic
+TX,2014,12,Female,17,9,10,Very little,Fly,Right-Handed,Car,20,24,Index finger,Yes - broadband connection,In person,3,4,10,2,5,3,7,2,3,Other,Other
+TN,2015,12,Male,17,7,9,Some,Fly,Right-Handed,Car,5,26,Ring finger,Yes - other,Text messaging,150,150,10,9,4,8,1,7,2,Graduate degree,Punk rock
+DE,2015,12,Male,18,,9,A lot,Fly,Right-Handed,Car,5,11,Index finger,Yes - other,Cell phone,100,300,50,35,3,14,5,20,2,Graduate degree,Rap/Hip hop
+NJ,2014,5,Female,10,8,10,Some,Fly,Right-Handed,Car,5,20,Index finger,Yes - broadband connection,Text messaging,0,116,120,3,20,20,20,15,20,Graduate degree,Pop
+PA,2018,12,Male,17,7,12,A lot,Telepathy,Ambidextrous,Car,30,24.13,Index finger,Yes - broadband connection,In person,8,8,3.5,24,7,2,5,1.5,3,Graduate degree,Rock and roll
+NY,2017,6,Female,11,9,11,Some,Fly,Right-Handed,Rail (Train/Tram/Subway),30,27,Ring finger,Yes - other,Text messaging,20,50,5,7,12,4,2,2,6,Other,Other
+MN,2018,9,Male,15,10,3,Very little,Invisibility,Left-Handed,Bus,10,20,Index finger,No internet connection,Cell phone,30,45,6,1,10,2,24,24,0,Some college,Rap/Hip hop
+TX,2014,12,Male,17,86,6,A lot,Invisibility,,Car,10,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,8,10,1,1,4,3,2,2,3,Graduate degree,Punk rock
+VA,2014,12,Female,17,8,10,A lot,Telepathy,Right-Handed,Car,13,24,Ring finger,Yes - broadband connection,Text messaging,50,75,20,10,25,15,85,40,30,Graduate degree,Country
+TX,2014,12,Male,18,8,8,Some,Fly,Right-Handed,Car,12,25.1,Ring finger,Yes - broadband connection,Text messaging,50,100,6,8,0,5,6,3,0,Graduate degree,Reggae
+TX,2014,6,Female,11,8,12,Some,Invisibility,Right-Handed,Car,15,25,Ring finger,Yes - other,In person,0,0,0,5,0,2,0,0,6,Graduate degree,Pop
+CA,2013,12,Female,16,4,8,Some,Invisibility,Right-Handed,Car,30,23,Ring finger,Yes - broadband connection,Text messaging,500,551,15,20,7,30,20,60,6,Graduate degree,Other
+CA,2013,12,Male,16,6,10,A lot,Freeze time,Right-Handed,Car,30,26,Same length,Yes - broadband connection,In person,5,5,10,24,2,8,10,1,0,Graduate degree,Techno/Electronic
+TX,2012,11,Male,16,8,10,Some,Freeze time,Right-Handed,Car,5,19.6,Ring finger,Yes - broadband connection,Cell phone,250,252,25,2,15,14,5,16,3,Graduate degree,Rap/Hip hop
+WI,2017,8,Male,14,7,9,Some,Freeze time,Right-Handed,Car,2,27,Ring finger,Yes - broadband connection,Internet chat or instant messaging,300,400,6,1,3,12,2,8,1,Less than high school,Rap/Hip hop
+TX,2016,12,Female,17,7,12,None,Freeze time,Right-Handed,Bus,20,29,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",30,30,0,0,4,0,10,2,5,High school,Other
+VA,2014,12,Female,17,8,10,Some,Fly,Right-Handed,Car,25,9,Ring finger,Yes - broadband connection,Text messaging,30,40,7,14,21,28,10,3,7,Graduate degree,Rap/Hip hop
+MD,2016,6,Male,11,9,11,Some,Fly,Right-Handed,Bus,7,22.5,Ring finger,Yes - broadband connection,Text messaging,5,7,5,5,5,6,1,1,3,Graduate degree,Pop
+NC,2011,12,Female,17,7,10,Some,Invisibility,Right-Handed,Car,18,24,Index finger,Yes - broadband connection,In person,80,90,80,6,10,20,4,6,3,Graduate degree,Country
+OH,2013,4,Male,9,,9,Some,Super strength,Right-Handed,Bus,25,20,Same length,Yes - broadband connection,Text messaging,10,50,6,3,2,6,0,1,6,Graduate degree,Rap/Hip hop
+NC,2013,6,Female,11,8,10,A lot,Invisibility,Right-Handed,Car,30,24,Index finger,Yes - broadband connection,Text messaging,130,135,12,27,60,12,60,70,12,Graduate degree,Country
+PA,2017,6,Male,11,9,7,Very little,Telepathy,Right-Handed,Bus,25,22,Ring finger,Yes - broadband connection,In person,0,0,7,5,7,9,5,0,10,Graduate degree,Country
+CO,2016,12,Female,17,6,10,Some,Super strength,,Car,40,22,Ring finger,Yes - other,In person,100,100,2,8,1,1,12,13,2,Graduate degree,Other
+NY,2017,6,Female,11,7.5,8,Some,Fly,Right-Handed,Rail (Train/Tram/Subway),40,23,Ring finger,Yes - broadband connection,Text messaging,11,12,5,12.5,3,7,1,2,1,Graduate degree,Pop
+NE,2017,10,Female,16,3,5,A lot,Freeze time,Right-Handed,Car,20,25,Ring finger,Yes - other,Cell phone,6,178,70,10,5,8,80,40,10,Some college,Other
+NY,2017,6,Male,10,5,6,A lot,Super strength,Ambidextrous,Bus,5,2,Same length,Yes - other,Other,0,69,1000,0,123,31,32,23,123,Other,Rap/Hip hop
+CA,2017,12,Female,17,8,11,A lot,Freeze time,Right-Handed,Car,15,25,Same length,Yes - broadband connection,Text messaging,50,40,2,40,1,0,7,3,3,Graduate degree,Pop
+TX,2014,12,Male,18,6,6,None,Super strength,Right-Handed,Car,15,11,Same length,Yes - other,In person,10,10,3,2,1,3,1,1,3.5,Undergraduate degree,Rap/Hip hop
+WI,2018,12,Female,17,7,9,Some,Telepathy,Ambidextrous,Car,12,,Ring finger,Yes - other,Cell phone,8,8,9,5,5,15,4,3,4,Graduate degree,Country
+MA,2017,8,Female,13,7,12,A lot,Super strength,Right-Handed,Car,5,27,Same length,Yes - broadband connection,Internet chat or instant messaging,20,35,16,4,2,3,12,12,6,Graduate degree,Pop
+NY,2019,12,Female,18,7,9,Some,Freeze time,Ambidextrous,Rail (Train/Tram/Subway),50,26.5,Same length,Yes - broadband connection,In person,10,24,5,17.5,14,2,4,3,4,Other,Classical
+NY,2011,12,Male,17,6,9,A lot,Super strength,Right-Handed,Car,10,25,Ring finger,Yes - broadband connection,Text messaging,100,200,5,5,2,4,4,3,0,Graduate degree,Rap/Hip hop
+OK,2016,12,Male,16,7,7,Some,Freeze time,Right-Handed,Bicycle,11,26,Index finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",21,28,2,1,8,9,1,1,3,Graduate degree,Country
+OH,2013,4,Female,9,9,8,A lot,Telepathy,Right-Handed,Car,5,20,Ring finger,Yes - other,Internet chat or instant messaging,6,13,8,3,2,2,1,3,1,Undergraduate degree,Rap/Hip hop
+OH,2012,12,Female,18,9,12,Very little,Telepathy,Right-Handed,Car,5,24,Ring finger,Yes - broadband connection,In person,10,10,,,,,,,,Graduate degree,
+PA,2017,12,Female,17,7,5,A lot,Invisibility,Right-Handed,Car,10,24.3,Index finger,Yes - other,Cell phone,45,100,20,20,15,16,5,10,15,Graduate degree,Rap/Hip hop
+IA,2018,12,Male,17,6,8,Some,Freeze time,Right-Handed,Car,7,25,Ring finger,Yes - broadband connection,Internet chat or instant messaging,0,0,12,0,2,14,7,0,4,Undergraduate degree,Other
+GA,2013,6,Female,12,8,12,A lot,Invisibility,Right-Handed,Bus,15,24,Same length,Yes - broadband connection,Text messaging,150,125,7,3,8,15,30,45,69,Some college,Pop
+NC,2016,11,Male,16,6,8,A lot,Telepathy,Right-Handed,Bus,8,25,Index finger,Yes - broadband connection,Internet chat or instant messaging,25,25,1,5,2,12,1,2,1,Graduate degree,Jazz
+CA,2016,12,Male,16,7,8,Some,Fly,Right-Handed,Car,20,23,Index finger,Yes - broadband connection,Text messaging,100,80,8,10,7,6,7,7,3,Some college,Gospel
+TX,2012,12,Male,18,8,9,A lot,Fly,Right-Handed,Car,4,25,Ring finger,Yes - other,In person,3,7,5,24,18,8,2,2,4,Undergraduate degree,Country
+CA,2013,12,Male,15,7,8,Some,Freeze time,Right-Handed,Bicycle,8,26,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",0,0,2,35,5,1,6,0,1,Graduate degree,Techno/Electronic
+CA,2015,6,Female,10,8,13,Very little,Invisibility,Right-Handed,Car,2,26,Index finger,Yes - other,Text messaging,1,1,2,30,4,0,29,22,30,High school,Country
+MI,2016,12,Female,17,6,9,A lot,Telepathy,Right-Handed,Car,6,20,Index finger,Yes - other,Text messaging,40,80,4,8,2,10,4,2,5,Graduate degree,Rap/Hip hop
+VA,2011,12,Male,16,5,10,A lot,Freeze time,Right-Handed,Car,12,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,1,2,5,15,3,8,12,2,20,Other,Rap/Hip hop
+CT,2017,12,Male,18,4,5,Very little,Freeze time,Right-Handed,Bus,10,,,Yes - other,Text messaging,3,3,0,1,6,5,3,4,8,Undergraduate degree,Rap/Hip hop
+NY,2018,12,Male,17,7,9,Very little,Freeze time,Right-Handed,Rail (Train/Tram/Subway),50,26,Ring finger,Yes - broadband connection,Internet chat or instant messaging,20,20,100,10,60,5,10,1,0,Graduate degree,Other
+CA,2018,6,Female,12,5,4,A lot,Invisibility,Right-Handed,Bicycle,5,21,Ring finger,Yes - broadband connection,Text messaging,16,19,13,1,2,3,24,8,8,Undergraduate degree,Techno/Electronic
+OH,2018,12,Male,18,8,9,Some,Fly,Right-Handed,,5,27,Ring finger,Yes - broadband connection,Text messaging,41,40,20,2,5,20,10,3,8,Graduate degree,Rap/Hip hop
+GA,2013,6,Male,11,7,5,Some,Invisibility,Right-Handed,Bus,5,27,Ring finger,Yes - other,Cell phone,0,0,6,0,4,6,0,0,11,Graduate degree,Reggae
+GA,2018,11,Female,16,7,8,Some,Telepathy,Right-Handed,Car,15,21,Same length,Yes - broadband connection,Text messaging,60,80,6,20,0,0,12,8,4,Graduate degree,Pop
+MA,2016,8,Female,13,6,3,Some,Telepathy,Right-Handed,Bus,6,23,Index finger,Yes - other,In person,86,95,45,1.5,0,0,30,130,150,Graduate degree,Pop
+CA,2017,12,Male,16,7,8,Some,Freeze time,Right-Handed,Car,15,26.5,Ring finger,Yes - other,In person,10,10,3,14,14,6,5,4,1,Graduate degree,Pop
+NY,2016,11,Male,17,8,10,A lot,Telepathy,Left-Handed,Car,10,28,Ring finger,Yes - broadband connection,Cell phone,15,20,4,10,10,15,1,1,10,Graduate degree,Country
+SC,2012,12,Male,17,6,3,Very little,Super strength,Right-Handed,Bus,45,25,Index finger,No internet connection,Cell phone,42,53,3,1,2,3,1,1,2,Some college,Rap/Hip hop
+SC,2015,11,Female,17,6,8,A lot,Invisibility,Right-Handed,Car,15,22,Same length,Yes - other,Text messaging,516,584,9,9,22,15,19,20,3,Graduate degree,Other
+OH,2013,11,Female,18,7,11,A lot,Telepathy,Right-Handed,Car,5,27,Ring finger,Yes - broadband connection,Text messaging,70,70,7,21,7,3,4,8,5,Graduate degree,Pop
+WI,2015,7,Female,13,9,10,Some,Fly,Ambidextrous,Car,3,24,Index finger,Yes - broadband connection,In person,2,5,6,5,9,7,0,0.25,7,Other,Pop
+KY,2019,7,Male,13,8,5,Some,Fly,Right-Handed,Bus,10,23.36,Ring finger,Yes - other,Cell phone,0,0,9,1,4,6,3,2,2,Some college,Rap/Hip hop
+CA,2018,12,Female,17,6,8,Some,Telepathy,Right-Handed,Car,5,25,Ring finger,Yes - broadband connection,Text messaging,30,40,7,10,8,2,5,5,3,Other,Rhythm and blues (R&B)
+OK,2013,10,Female,15,7,9,Very little,Freeze time,Right-Handed,Car,15,24,Same length,Yes - broadband connection,Cell phone,30,40,20,2,5,15,10,4,3,Graduate degree,Pop
+SC,2018,11,Female,17,8,7,A lot,Fly,Right-Handed,Car,1,24,Index finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",18,18,119,14,7,56,56,7,25,Undergraduate degree,Other
+ID,2018,12,Female,20,6,6,A lot,Telepathy,Right-Handed,Walk,2,,Index finger,Yes - other,Text messaging,20,20,100,120,90,70,10,30,60,Undergraduate degree,Gospel
+FL,2016,11,Male,16,5,10,A lot,Fly,Ambidextrous,Car,10,27,Ring finger,Yes - broadband connection,Text messaging,0,0,6,8,4,12,1,4,2,Undergraduate degree,Rap/Hip hop
+OR,2016,12,Male,17,5,7,Some,Freeze time,Right-Handed,Skateboard/Scooter/Rollerblade,5,25.5,Ring finger,Yes - broadband connection,Internet chat or instant messaging,20,15,35,2,1,1,4,4,3,Graduate degree,Other
+MO,2016,12,Male,17,7,10,Very little,,Right-Handed,Car,4,27,Ring finger,Yes - other,Text messaging,1,3,8,0,2,0,10,1,10,Graduate degree,Rap/Hip hop
+ID,2017,12,Male,16,7,10.5,Some,Telepathy,Right-Handed,Car,8,32,Ring finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",10,8,6,4,72,4,100,90,40,Graduate degree,Rap/Hip hop
+MI,2018,9,Female,15,6,9,Some,Telepathy,Right-Handed,Car,60,20,Ring finger,,Text messaging,20,26,2,24,10,2,3,3,2,Graduate degree,Other
+TX,2017,12,Male,17,8,12,Some,Freeze time,Right-Handed,Car,5,24,Ring finger,Yes - broadband connection,Text messaging,50,60,4,5,4,2,5,5,3,Graduate degree,Rock and roll
+NY,2016,11,Male,16,6,8,Some,Fly,Right-Handed,Car,2,34,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",5,5,5,14,5,22,9,0.5,4,Graduate degree,Rap/Hip hop
+CA,2019,9,Female,15,4,6,A lot,Freeze time,Left-Handed,Car,11,21,Ring finger,Yes - broadband connection,Text messaging,150,300,2,60,3,12,7,86,7,Graduate degree,Rhythm and blues (R&B)
+GA,2013,11,Male,16,8,10,A lot,Invisibility,Right-Handed,Car,20,29,Ring finger,Yes - other,Cell phone,7,6,10,15,15,30,30,25,40,Graduate degree,Rap/Hip hop
+MO,2018,11,Male,16,,,None,Telepathy,Right-Handed,Car,2,29,Index finger,Yes - broadband connection,Text messaging,5,5,100,50,30,130,58,30,0,High school,Rap/Hip hop
+CA,2017,7,Female,12,7,9,A lot,Invisibility,Right-Handed,Car,10,10,Ring finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",10,15,3,5,0,8,6,2,2,Some college,Other
+PA,2015,6,Male,11,10,9,Some,Fly,Right-Handed,Bus,10,22,Ring finger,Yes - broadband connection,In person,0,0,5,2,3,6,0,0,17,Undergraduate degree,Other
+SC,2011,12,Male,17,7,8,A lot,Telepathy,Right-Handed,Car,5,27,Index finger,Yes - broadband connection,Text messaging,50,50,16,12,10,15,3,2,6,Graduate degree,Pop
+WI,2015,7,Male,12,7,8,Very little,Fly,Right-Handed,Bus,32,20,Ring finger,Yes - other,Text messaging,0,0,7,2,4,3,3,2,3,Some college,Country
+OH,2016,12,Female,18,9,12,A lot,Freeze time,Right-Handed,Car,15,23,Ring finger,Yes - other,Text messaging,40,45,11,5,2,10,8,7,10,Graduate degree,Punk rock
+MD,2014,8,Female,13,9,5,Some,Telepathy,Right-Handed,Bus,1,22,Same length,Yes - other,Text messaging,15,13,8,5,7,9,2,8,2,Graduate degree,Pop
+RI,2016,12,Female,17,4,6,A lot,Invisibility,Ambidextrous,Bus,60,23,Same length,Yes - broadband connection,Text messaging,15,20,2,5,1,0,10,5,10,Graduate degree,Rap/Hip hop
+NC,2016,11,Female,17,8,9,Some,Freeze time,Right-Handed,Car,5,24,Ring finger,Yes - broadband connection,Text messaging,8,10,8,15,20,7,0,1,0,Undergraduate degree,Classical
+NE,2018,12,Female,16,8,11,Very little,Invisibility,Right-Handed,Car,6,24,Ring finger,Yes - other,Text messaging,21,9,2,3,10,0,8,3,5,Graduate degree,Rap/Hip hop
+CO,2015,12,Male,17,7,10,A lot,Freeze time,Right-Handed,Car,35,22,Ring finger,Yes - broadband connection,Text messaging,60,50,2,20,4,10,1,6,2,Graduate degree,Country
+CA,2013,12,Female,16,7,8,Some,Fly,Ambidextrous,Car,7,22,Same length,Yes - broadband connection,Text messaging,66,180,50,13,7,12,70,70,14,Graduate degree,Rhythm and blues (R&B)
+NC,2017,12,Male,17,7,8,Very little,Super strength,Left-Handed,Car,7,24,Same length,Yes - broadband connection,In person,3,3,5,3,2,2,1,1,2,Graduate degree,Pop
+CA,2011,12,Male,17,7,10,A lot,Telepathy,Right-Handed,Car,15,28,Ring finger,Yes - broadband connection,Text messaging,250,250,6,10,5,2,10,4,5,Undergraduate degree,Techno/Electronic
+CA,2018,12,Male,17,6,9,A lot,Freeze time,Ambidextrous,Car,6,26.67,Ring finger,Yes - broadband connection,Text messaging,70,102,15,3,2,12,15,18,0,Graduate degree,Gospel
+CO,2015,12,Male,17,6,8,Some,Telepathy,Ambidextrous,Car,12,25,Ring finger,,Cell phone,9,10,20,10,2,8,1,1,6,Graduate degree,Pop
+CA,2015,6,Female,11,9,11,Very little,Fly,Right-Handed,Bicycle,15,127,Index finger,Yes - broadband connection,E-mail,0,0,35,15,10,5,0,0.2,2,Some college,Pop
+KS,2011,12,Female,17,7,6,A lot,Freeze time,Right-Handed,Bus,23,26,Index finger,Yes - broadband connection,Internet chat or instant messaging,3,2,30,2,1,0,2,30,5,Undergraduate degree,Other
+CT,2015,6,Female,12,9,11,Very little,Fly,Right-Handed,Car,,26,Ring finger,Yes - broadband connection,Text messaging,3,5,5,7,21,28,15,3,21,Graduate degree,Rap/Hip hop
+WI,2015,7,Male,12,7,2,Very little,Invisibility,Right-Handed,Skateboard/Scooter/Rollerblade,5,25,Ring finger,Yes - other,Text messaging,5,3,10,1,5,10,5,10,3,Graduate degree,Rock and roll
+CA,2017,7,Male,12,10,11,Very little,Freeze time,Right-Handed,Bicycle,4,24,Ring finger,Yes - broadband connection,In person,1,1,2,3,2,11,0,1,1,Some college,Pop
+OH,2018,12,Female,17,5,9,A lot,Telepathy,Left-Handed,Car,7,26,Ring finger,Yes - other,Cell phone,30,30,12,30,10,1,10,10,30,Other,Rhythm and blues (R&B)
+CA,2011,6,Female,11,10,11,Very little,Telepathy,Right-Handed,Bus,15,25,Ring finger,Yes - broadband connection,E-mail,0,0,5,3,11,7,1,3,5,Graduate degree,Rap/Hip hop
+OH,2016,4,Male,10,10,8,None,Super strength,Right-Handed,Car,25,23,Ring finger,Yes - other,Text messaging,6,8,17,13,12,12,12,12,12,Other,Rap/Hip hop
+VA,2016,12,Male,17,7,7,Some,Telepathy,Ambidextrous,Car,8,31,Ring finger,Yes - broadband connection,E-mail,1000,2,2,7,4,3,3,2,4,High school,Reggae
+OK,2018,12,Female,17,6,8,Some,Telepathy,Left-Handed,Car,15,23,Same length,Yes - other,Internet chat or instant messaging,100,200,,30,4,0,40,20,3,Undergraduate degree,Rhythm and blues (R&B)
+AK,2015,11,Male,17,5,8,Very little,Telepathy,Right-Handed,Car,10,24,Ring finger,Yes - broadband connection,Text messaging,200,190,2,5,6,1,1,12,2,Graduate degree,Rap/Hip hop
+MI,2019,9,Female,15,3,3,Some,Invisibility,Right-Handed,Bus,,,Index finger,Yes - other,Other,135,167,0,1,1,4,10,10,5,Other,Rap/Hip hop
+SC,2015,11,Female,17,8,9,Some,Freeze time,Left-Handed,Car,10,22,Index finger,Yes - other,Text messaging,150,250,5,2,7,4,4,8,15,Graduate degree,Country
+OH,2017,7,Female,12,9,10,Some,Telepathy,Right-Handed,Bus,10,25,Ring finger,No internet connection,Text messaging,100,100,5,20,24,5,20,30,10,Graduate degree,
+IA,2018,8,Female,13,8,6,Some,Fly,Right-Handed,Car,4,25,Same length,Yes - broadband connection,In person,70,50,2,3,2,4,2,2,1,Graduate degree,Country
+NY,2011,5,Male,11,8,10,Some,Invisibility,Right-Handed,Bus,20,22,Index finger,Yes - broadband connection,"Myspace, Facebook, other social networking sites, or blog",20,20,4,3,4,7,4,2,6,Graduate degree,Rap/Hip hop
+OH,2016,12,Male,19,8,10,A lot,Invisibility,Right-Handed,Car,6,8,Ring finger,Yes - broadband connection,Internet chat or instant messaging,5,5,1,0.5,1,2,4,1,5,Graduate degree,Country
+SC,2012,11,Male,16,9,11,Some,Fly,Right-Handed,Car,7,27,Same length,Yes - broadband connection,Text messaging,25,30,10,2,4,8,1,2,2,Graduate degree,Country
+GA,2018,9,Male,16,5,10,Very little,Fly,Left-Handed,Bus,30,10,Ring finger,Yes - dial-up connection,In person,50,100,1,1,1,4,0,3,5,Some college,Rap/Hip hop
+NJ,2017,12,Male,17,7,8,A lot,Freeze time,Right-Handed,Walk,15,24,Ring finger,Yes - broadband connection,Text messaging,15,20,5,21,10,7,2,1,0,Graduate degree,Techno/Electronic
+MO,2018,7,Female,12,8,9,Very little,Telepathy,Right-Handed,Car,10,24,Ring finger,Yes - other,"Myspace, Facebook, other social networking sites, or blog",20,16,10,1,9,4,12,18,3,Graduate degree,Country
+CA,2015,6,Male,12,6,8,A lot,Invisibility,Right-Handed,Car,3,23,Same length,Yes - broadband connection,In person,0,1,3,2,4,1,1,1,1.2,Other,Other
+TX,2011,12,Female,16,8,12,A lot,Freeze time,Right-Handed,Bus,30,23,Ring finger,Yes - broadband connection,Text messaging,8,10,10,27,60,1,5,0,6,Graduate degree,Pop
+CA,2018,12,Male,18,8,10,A lot,Freeze time,Right-Handed,Car,15,29,Same length,Yes - broadband connection,Text messaging,10,100,5,10,3,12,3,2,5,Graduate degree,Pop
+WI,2017,8,Male,14,9,8,A lot,,Right-Handed,Bus,10,20,Ring finger,Yes - broadband connection,Text messaging,150,80,20,3,10,20,1,4,19,Some college,Rap/Hip hop
+CA,2016,12,Female,17,7,10,A lot,Telepathy,Left-Handed,Car,7,21.5,Same length,Yes - broadband connection,Cell phone,300,150,10,5,125,1,30,145,100,Graduate degree,Rap/Hip hop
+AR,2018,7,Male,13,8,2,Some,,Right-Handed,Car,6,24,Index finger,Yes - broadband connection,Cell phone,2,16,1,6,8,10,2,9,11,Other,
+NC,2018,11,Female,17,6,9,A lot,Fly,Right-Handed,Car,9,23,Ring finger,Yes - broadband connection,Text messaging,70,70,20,35,10,10,5,10,2,Graduate degree,Rap/Hip hop
+RI,2015,12,Female,18,9,7,A lot,Fly,Right-Handed,Bus,20,24,Index finger,Yes - broadband connection,Cell phone,11,20,10,21,5,2,10,30,20,Graduate degree,Rap/Hip hop
+NJ,2018,11,Male,16,7,10,Some,Freeze time,Right-Handed,Car,5,28,Ring finger,Yes - other,Text messaging,4,10,15,2,8,14,30,2,20,Graduate degree,Punk rock
+NY,2016,12,Female,17,6,10,Some,Fly,Right-Handed,Rail (Train/Tram/Subway),60,23,Index finger,Yes - other,Cell phone,3,6,10,7,4,2,3,1,20,Graduate degree,Jazz
+SC,2015,11,Female,17,6,10,Some,Invisibility,Right-Handed,Car,5,88,Ring finger,Yes - other,Text messaging,250,300,10,3,5,7,70,70,4,Graduate degree,Rap/Hip hop
