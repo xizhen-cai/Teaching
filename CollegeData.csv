@@ -1,0 +1,275 @@
+School,Location,Earn,SAT,ACT,Price,Price_with_aid,need_fraction,merit_aided,State,Highest.degree.offered,Bureau.of.EconomicRegions,Type.of.institution,Graduation.rate,Percent.admitted,Tuition.and.fees
+Adrian College,"Adrian, MI",39500,890,22,46900,23900,0.86,0.13,Michigan,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,52,60,36010
+Agnes Scott College,"Decatur, GA",41100,1210,25,50800,22200,0.78,0.22,Georgia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,66,66,39960
+Albany State University,"Albany, GA",35300,890,19,19800,13400,0.78,NA,Georgia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,22,NA,5675
+Albertus Magnus College,"New Haven, CT",48000,830,15,50600,24200,0.77,0.01,Connecticut,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,61,64,31140
+Albion College,"Albion, MI",45600,1100,25,51700,27100,0.73,0.28,Michigan,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,57,71,43050
+Alcorn State University,"Alcorn State, MS",39000,880,18,22300,15800,0.58,0.08,Mississippi,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,33,79,6888
+Allegheny College,"Meadville, PA",39600,1180,26,56200,30300,0.74,0.24,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,75,68,45970
+Alma College,"Alma, MI",42000,1060,25,48200,23800,0.83,0.16,Michigan,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,68,64,38768
+Amherst College,"Amherst, MA",53400,1440,32,66600,16000,0.58,NA,Massachusetts,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,95,13,54310
+Arizona Christian University,"Phoenix, AZ",36600,1040,23,37500,29400,0.77,0.09,Arizona,Bachelor's degree,Southwest AZ NM OK TX,Private not-for-profit,47,64,24958
+Art Center College of Design,"Pasadena, CA",62000,1210,25,64400,47000,NA,NA,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,68,70,42008
+Asbury University,"Wilmore, KY",33600,1120,24,38000,22200,0.78,0.08,Kentucky,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,69,70,29500
+Assumption College,"Worcester, MA",49600,1230,25,51900,29200,0.77,0.2,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,71,79,39598
+Augustana College,"Rock Island, IL",40300,1020,20,50800,26900,0.76,0.22,Illinois,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,75,59,40908
+Austin College,"Sherman, TX",40200,1220,25,49900,23800,0.65,0.14,Texas,Master's degree,Southwest AZ NM OK TX,Private not-for-profit,67,52,38800
+Babson College,"Wellesley, MA",60000,1260,28,65000,29900,0.4,0.06,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,92,24,49664
+Baldwin Wallace University,"Berea, OH",41100,1080,24,43200,22200,0.8,0.2,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,67,78,31668
+Barnard College,"New York, NY",48500,1340,30,65800,23800,0.4,NA,New York,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,93,15,52662
+Bates College,"Lewiston, ME",46700,1310,28,65300,24000,0.44,NA,Maine,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,92,22,52042
+Beloit College,"Beloit, WI",37900,1230,27,54400,26400,0.68,0.29,Wisconsin,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,86,54,48706
+Benedictine College,"Atchison, KS",41300,1140,25,40700,25500,0.7,0.25,Kansas,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,63,97,28480
+Bennett College,"Greensboro, NC",39601,980,19,32300,23400,0.91,0.01,North Carolina,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,37,89,18513
+Bennington College,"Bennington, VT",36400,1260,26,66600,34900,0.71,0.34,Vermont,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,67,57,51920
+Berea College,"Berea, KY",33100,1130,24,34800,2200,1,NA,Kentucky,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,66,35,25760
+Berry College,"Mount Berry, GA",37000,1170,27,46200,26600,0.72,0.3,Georgia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,64,62,35176
+Bethel College-Indiana,"Mishawaka, IN",37000,1020,24,38200,19900,0.71,0.07,Indiana,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,64,90,28030
+Bethel University,"Saint Paul, MN",43800,1140,25,47700,29000,0.74,0.25,Tennessee,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,27,94,16552
+Bethune-Cookman University,"Daytona Beach, FL",44200,820,17,28200,17700,0.94,0.01,Florida,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,37,NA,14410
+Bluefield College,"Bluefield, VA",46400,910,19,37700,21900,0.88,0.12,Virginia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,21,91,24800
+Bluffton University,"Bluffton, OH",36000,1010,22,44700,24000,0.85,0.12,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,51,49,31672
+Bowdoin College,"Brunswick, ME",48900,1440,32,64100,24300,0.45,0.03,Maine,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,95,14,51848
+Bridgewater College,"Bridgewater, VA",37300,1030,23,46700,21000,0.81,0.2,Virginia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,61,52,33820
+Bridgewater State University,"Bridgewater, MA",41500,990,22,24300,16100,0.53,NA,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,59,80,10012
+Bryant University,"Smithfield, RI",51700,1140,25,57600,38200,0.48,0.25,Rhode Island,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,79,73,42109
+Bucknell University,"Lewisburg, PA",57900,1300,30,65600,36100,0.4,0.09,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,90,31,53986
+California Polytechnic State University-San Luis Obispo,"San Luis Obispo, CA",58100,1240,28,25700,18300,0.31,0.11,California,Master's degree,Far West AK CA HI NV OR WA,Public,79,35,9432
+California State University-Chico,"Chico, CA",48100,1020,22,23300,12800,0.5,NA,California,Master's degree,Far West AK CA HI NV OR WA,Public,66,68,7348
+Calvin College,"Grand Rapids, MI",44000,1180,26,44300,28300,0.61,0.31,Michigan,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,72,83,33100
+Canisius College,"Buffalo, NY",39400,1090,25,51000,22400,0.76,0.18,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,69,78,36454
+Carleton College,"Northfield, MN",44800,1430,31,65000,34900,0.55,0.06,Minnesota,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,94,21,52782
+Carroll College,"Helena, MT",47300,1120,24,44100,26600,0.63,0.31,Montana,Bachelor's degree,Rocky Mountains CO ID MT UT WY,Private not-for-profit,72,78,34480
+Carthage College,"Kenosha, WI",41500,1100,24,52300,29800,0.75,0.22,Wisconsin,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,60,68,41950
+Cedar Crest College,"Allentown, PA",44700,950,21,48700,19600,0.92,0.06,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,50,63,38092
+Central College,"Pella, IA",43300,1060,24,48500,24500,0.81,0.16,Iowa,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,69,70,35930
+Central Washington University,"Ellensburg, WA",45900,990,21,24300,15500,0.55,NA,Washington,Master's degree,Far West AK CA HI NV OR WA,Public,52,86,7903
+Centre College,"Danville, KY",39600,1230,29,51400,27100,0.58,0.39,Kentucky,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,82,76,40500
+Christopher Newport University,"Newport News, VA",44100,1160,26,27700,22900,0.3,0.09,Virginia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,75,72,13654
+Citadel Military College of South Carolina,"Charleston, SC",54100,1090,23,27400,19000,0.45,0.22,South Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,73,81,12056
+Claflin University,"Orangeburg, SC",36800,880,18,33900,21600,0.87,0.17,South Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,53,41,16480
+Claremont McKenna College,"Claremont, CA",58800,1410,31,66800,26100,0.38,0.06,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,90,10,52825
+Cleveland Institute of Art,"Cleveland, OH",42200,1080,23,56500,35400,0.82,0.12,Ohio,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,56,54,40655
+Coe College,"Cedar Rapids, IA",45300,1180,26,51200,24100,0.84,0.15,Iowa,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,69,56,42430
+Colby College,"Waterville, ME",48600,1350,30,63600,20100,0.38,0.01,Maine,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,92,16,53120
+Colgate University,"Hamilton, NY",55800,1370,31,64900,23600,0.34,NA,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,91,28,53980
+College for Creative Studies,"Detroit, MI",46200,1150,22,53700,37500,NA,NA,Michigan,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,60,49,42460
+College of Charleston,"Charleston, SC",43000,1170,26,28400,19200,0.33,0.19,South Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,69,80,12422
+College of Mount Saint Vincent,"Bronx, NY",39300,920,20,49100,22900,0.82,0.07,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,54,91,37100
+College of Saint Benedict,"Saint Joseph, MN",41800,1060,26,53900,27900,0.69,0.24,Minnesota,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,82,81,43738
+College of the Holy Cross,"Worcester, MA",49500,1380,29,62100,28500,0.46,0.01,Massachusetts,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,92,40,50630
+College of the Ozarks,"Point Lookout, MO",36000,1030,23,29100,15400,0.92,0.07,Missouri,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,72,13,19130
+Colorado College,"Colorado Springs, CO",42700,1330,30,62900,26300,0.35,0.08,Colorado,Master's degree,Rocky Mountains CO ID MT UT WY,Private not-for-profit,88,15,52818
+Columbus College of Art and Design,"Columbus, OH",40800,1050,22,44400,28300,0.79,0.18,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,61,70,34440
+Concordia College at Moorhead,"Moorhead, MN",39200,1140,25,46300,24900,0.72,0.25,Minnesota,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,70,62,38378
+Concordia College-New York,"Bronxville, NY",43500,920,18,44000,20200,0.65,0.12,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,46,76,31600
+Connecticut College,"New London, CT",45400,1420,31,65400,26300,0.49,NA,Connecticut,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,85,38,52850
+Converse College,"Spartanburg, SC",34700,1060,24,31100,19400,0.79,0.13,South Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,72,71,17680
+Cooper Union for the Advancement of Science and Art,"New York, NY",63200,1360,31,62800,19000,0.32,0.55,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,85,13,45100
+Cornell College,"Mount Vernon, IA",39200,1180,26,52600,25600,0.76,0.22,Iowa,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,71,65,40880
+CUNY Bernard M Baruch College,"New York, NY",50700,1230,25,29700,8900,0.46,0.09,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,70,29,7062
+CUNY Brooklyn College,"Brooklyn, NY",42900,1100,22,26100,7900,0.74,0.03,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,58,40,7040
+CUNY Queens College,"Flushing, NY",44200,1100,22,27300,7300,0.56,0.02,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,54,43,7138
+Davidson College,"Davidson, NC",50000,1340,31,63400,24500,0.48,0.09,North Carolina,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,91,20,49949
+Denison University,"Granville, OH",46100,1260,29,61100,32100,0.53,0.45,Ohio,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,86,37,50440
+DePauw University,"Greencastle, IN",47500,1200,27,58200,32200,0.55,0.42,Indiana,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,81,67,47838
+Dickinson College,"Carlisle, PA",45000,1280,29,64800,36500,0.53,0.15,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,83,49,52955
+Dominican University of California,"San Rafael, CA",44100,1060,23,62400,37500,0.7,0.07,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,72,88,44690
+Dordt College,"Sioux Center, IA",45000,1100,25,41700,26400,0.7,0.24,Iowa,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,65,72,30000
+Drury University,"Springfield, MO",37600,1150,25,37700,22900,0.61,0.16,Missouri,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,55,66,27015
+Earlham College,"Richmond, IN",45600,1250,29,56700,22400,0.64,0.11,Indiana,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,68,52,45750
+Eastern Connecticut State University,"Willimantic, CT",43600,1020,22,25400,17500,0.47,0.04,Connecticut,Master's degree,New England CT ME MA NH RI VT,Public,54,66,10919
+Eastern Illinois University,"Charleston, IL",40700,1110,22,24900,17800,0.51,0.13,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Public,56,52,11678
+Eckerd College,"Saint Petersburg, FL",42800,1120,26,55700,34800,0.86,0.34,Florida,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,70,73,43044
+Elizabethtown College,"Elizabethtown, PA",41300,1120,25,54000,30200,0.75,0.24,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,75,74,45350
+Elmhurst College,"Elmhurst, IL",43800,1020,24,49200,23800,0.72,0.18,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,64,71,36370
+Emerson College,"Boston, MA",43500,1230,28,58100,37500,0.46,0.09,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,81,46,44832
+Fitchburg State University,"Fitchburg, MA",40700,990,20,21900,13900,0.49,0.02,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,60,80,10155
+Framingham State University,"Framingham, MA",42500,1040,22,24100,18600,0.51,0.06,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,54,68,9920
+Franciscan University of Steubenville,"Steubenville, OH",43600,1160,26,37000,27300,0.61,0.31,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,78,83,26430
+Franklin and Marshall College,"Lancaster, PA",45200,1450,32,65800,25000,0.5,0.01,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,86,34,54380
+Fresno Pacific University,"Fresno, CA",42100,990,20,39600,17800,0.7,0.09,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,65,72,30458
+Geneva College,"Beaver Falls, PA",40900,1070,23,38200,21100,0.82,0.14,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,69,69,26070
+Gettysburg College,"Gettysburg, PA",47400,1290,28,62800,36300,0.59,0.18,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,84,46,52640
+Gordon College,"Wenham, MA",42300,1150,26,48400,32100,0.7,0.3,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,70,89,36740
+Goshen College,"Goshen, IN",35900,1100,26,43900,21400,0.71,0.24,Indiana,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,72,64,33200
+Goucher College,"Baltimore, MD",39500,1200,25,57600,32500,0.65,0.3,Maryland,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,66,79,43440
+Grand View University,"Des Moines, IA",39000,860,21,36200,19900,0.75,0.15,Iowa,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,50,93,26516
+Grinnell College,"Grinnell, IA",41300,1380,30,61700,27100,0.7,0.19,Iowa,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,87,29,50714
+Guilford College,"Greensboro, NC",37600,1070,23,49100,28100,0.86,0.18,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,53,91,35563
+Gustavus Adolphus College,"Saint Peter, MN",43900,1210,27,53600,27300,0.71,0.27,Minnesota,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,80,68,44080
+Hamilton College,"Clinton, NY",54800,1390,31,64300,24400,0.47,NA,New York,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,94,24,52770
+Hampden-Sydney College,"Hampden-Sydney, VA",55000,1110,25,56500,32200,0.64,0.35,Virginia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,64,55,43940
+Hampshire College,"Amherst, MA",40600,1260,26,64500,39500,0.58,0.27,Massachusetts,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,62,63,51608
+Hanover College,"Hanover, IN",42100,1100,26,47600,24000,0.76,0.22,Indiana,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,71,84,36520
+Harvey Mudd College,"Claremont, CA",79700,1480,34,69300,36100,0.5,0.24,California,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,96,15,54636
+Haverford College,"Haverford, PA",45500,1400,32,66800,24400,0.49,NA,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,93,20,52994
+Hendrix College,"Conway, AR",37100,1200,29,56500,25200,0.61,0.34,Arkansas,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,75,80,44070
+Hiram College,"Hiram, OH",38100,1030,22,45100,24200,0.78,0.11,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,56,64,34300
+Hollins University,"Roanoke, VA",34600,1100,24,51400,23300,0.8,0.19,Virginia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,62,48,38285
+Holy Names University,"Oakland, CA",48900,910,19,53200,28900,0.37,0.13,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,43,53,38188
+Hope College,"Holland, MI",41600,1200,27,42900,28100,0.51,0.27,Michigan,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,80,74,32780
+Hope International University,"Fullerton, CA",40000,960,20,42500,24300,0.57,0.02,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,48,28,31800
+Houghton College,"Houghton, NY",35200,1110,25,42300,24600,0.75,0.15,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,73,91,31540
+Illinois College,"Jacksonville, IL",38900,970,22,42400,18400,0.84,0.16,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,60,55,32140
+Illinois Wesleyan University,"Bloomington, IL",46400,1220,28,54800,30500,0.64,0.32,Illinois,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,78,61,45856
+John Brown University,"Siloam Springs, AR",39500,1140,25,37100,20600,0.65,0.24,Arkansas,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,73,76,26144
+John Carroll University,"University Heights, OH",45400,1090,25,52100,25200,0.72,0.18,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,78,85,39990
+Juniata College,"Huntingdon, PA",42600,1290,27,53300,28200,0.69,0.25,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,84,71,43875
+Kalamazoo College,"Kalamazoo, MI",39400,1230,28,54800,28400,0.66,0.29,Michigan,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,86,73,46840
+Keene State College,"Keene, NH",43100,980,19,26000,20600,0.43,0.13,New Hampshire,Master's degree,New England CT ME MA NH RI VT,Public,62,83,13868
+Kenyon College,"Gambier, OH",45300,1320,30,64700,29100,0.39,0.12,Ohio,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,91,34,53560
+King's College,"Wilkes-Barre, PA",39400,1130,23,49200,27600,0.8,0.17,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,67,71,35830
+Knox College,"Galesburg, IL",40700,1290,27,53200,25800,0.79,0.2,Illinois,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,76,72,44958
+Lafayette College,"Easton, PA",57800,1280,29,64400,29500,0.36,0.09,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,90,31,51600
+Lake Forest College,"Lake Forest, IL",46300,1130,26,55700,26700,NA,NA,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,72,53,45548
+Lasell College,"Newton, MA",40300,980,21,49200,29700,0.82,0.16,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,54,81,34600
+Lawrence University,"Appleton, WI",42500,1330,28,56000,30200,0.66,0.36,Wisconsin,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,80,61,46101
+Le Moyne College,"Syracuse, NY",41900,1080,24,48100,24200,0.83,0.07,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,74,64,33905
+Le Moyne-Owen College,"Memphis, TN",33700,930,16,19300,14100,0.89,0.01,Tennessee,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,14,100,11196
+Linfield College-McMinnville Campus,"McMinnville, OR",43900,1090,24,51800,28100,0.61,0.2,Oregon,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,78,81,41682
+Longwood University,"Farmville, VA",39600,1010,21,25500,17300,0.4,0.04,Virginia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,68,92,12720
+Loras College,"Dubuque, IA",40200,980,24,41800,21800,0.73,0.25,Iowa,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,68,95,32886
+Luther College,"Decorah, IA",42300,1090,26,51800,28000,0.69,0.11,Iowa,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,80,65,41020
+Lycoming College,"Williamsport, PA",42000,1040,24,50100,23400,0.82,0.15,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,67,64,38618
+Macalester College,"Saint Paul, MN",42600,1340,31,62200,30500,0.69,0.1,Minnesota,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,87,41,52464
+Maine Maritime Academy,"Castine, ME",66000,1030,22,26900,19700,0.61,0.04,Maine,Master's degree,New England CT ME MA NH RI VT,Public,69,80,13278
+Manhattan College,"Riverdale, NY",58000,1080,25,56300,32500,0.67,0.25,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,75,75,41412
+Mansfield University of Pennsylvania,"Mansfield, PA",40400,960,21,25400,15600,0.57,0.02,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Public,50,89,12316
+Marietta College,"Marietta, OH",47000,1070,24,48000,25400,0.7,0.1,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,59,67,36040
+Marist College,"Poughkeepsie, NY",47000,1370,29,51800,37300,0.42,0.27,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,84,43,36780
+Martin Luther College,"New Ulm, MN",33200,1220,25,24100,17600,0.76,0.15,Minnesota,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,69,71,14680
+Martin Methodist College,"Pulaski, TN",30800,1200,25,35900,25300,0.54,0.09,Tennessee,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,34,99,23800
+Maryland Institute College of Art,"Baltimore, MD",40500,1180,24,59400,42800,NA,NA,Maryland,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,72,62,46990
+Massachusetts College of Art and Design,"Boston, MA",42700,1080,25,28800,23800,0.45,0.13,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,73,71,12700
+Massachusetts College of Liberal Arts,"North Adams, MA",37600,1030,23,23000,14800,0.6,0.05,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,54,77,10135
+Massachusetts Maritime Academy,"Buzzards Bay, MA",58400,1060,22,23600,14400,0.44,0.05,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,75,83,8398
+Mayville State University,"Mayville, ND",36700,1190,24,17700,12800,0.52,0.14,North Dakota,Master's degree,Plains IA KS MN MO NE ND SD,Public,35,48,6456
+McDaniel College,"Westminster, MD",43000,1110,24,52200,25000,0.75,0.22,Maryland,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,68,85,41800
+Meredith College,"Raleigh, NC",36800,1040,23,46100,24700,0.75,0.08,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,63,69,35916
+Merrimack College,"North Andover, MA",51700,1190,24,53300,32100,0.71,0.22,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,68,82,40190
+Miles College,"Fairfield, AL",31300,1030,20,23500,18100,0.99,0.01,Alabama,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,21,NA,11794
+Millsaps College,"Jackson, MS",40000,1130,26,50600,23600,0.6,0.38,Mississippi,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,67,49,38930
+Minneapolis College of Art and Design,"Minneapolis, MN",39400,1100,23,47000,28200,0.78,0.17,Minnesota,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,59,59,37812
+Monmouth College,"Monmouth, IL",42500,1010,23,45600,19200,0.86,0.14,Illinois,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,60,67,36400
+Morehouse College,"Atlanta, GA",50200,1010,21,49200,34600,0.69,0.08,Georgia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,55,74,27278
+Mount Holyoke College,"South Hadley, MA",44300,1360,29,59400,29900,0.67,0.13,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,86,51,47940
+Mount Mercy University,"Cedar Rapids, IA",42900,1070,22,41700,22000,0.74,0.21,Iowa,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,58,57,30582
+Mount Saint Mary College,"Newburgh, NY",49500,1000,22,45400,26400,0.79,0.17,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,54,93,29920
+Mount Vernon Nazarene University,"Mount Vernon, OH",37700,1080,23,38100,21200,0.77,0.4,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,63,77,28090
+Muhlenberg College,"Allentown, PA",48400,1240,28,59300,38800,0.5,0.37,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,86,48,50830
+National University,"La Jolla, CA",49200,1250,26,29000,24000,0.19,NA,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,42,NA,13016
+Nebraska Wesleyan University,"Lincoln, NE",41900,1100,24,42600,22900,0.7,0.27,Nebraska,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,65,71,32894
+North Central College,"Naperville, IL",43200,1220,25,48700,25500,0.78,0.21,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,69,54,37749
+Northwest Missouri State University,"Maryville, MO",40600,1050,23,18500,11800,0.55,0.08,Missouri,Master's degree,Plains IA KS MN MO NE ND SD,Public,50,74,7657
+Oakwood University,"Huntsville, AL",38900,920,20,37200,29400,0.88,NA,Alabama,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,47,47,16720
+Oberlin College,"Oberlin, OH",43300,1360,30,67000,42400,0.48,0.36,Ohio,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,86,34,53460
+Occidental College,"Los Angeles, CA",47700,1310,29,67400,35700,0.49,0.15,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,84,42,52838
+Ohio Wesleyan University,"Delaware, OH",43700,1120,25,60000,32100,0.7,0.3,Ohio,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,70,71,44690
+Otis College of Art and Design,"Los Angeles, CA",44800,1000,22,58800,40200,0.65,0.17,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,55,91,45620
+Pennsylvania College of Technology,"Williamsport, PA",49800,1200,25,31900,23400,0.67,NA,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Public,47,NA,16350
+Pitzer College,"Claremont, CA",48700,1520,34,66300,28400,0.34,0.01,California,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,83,16,52236
+Pomona College,"Claremont, CA",49200,1460,33,65200,20900,0.56,NA,California,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,93,8,51075
+Pratt Institute-Main,"Brooklyn, NY",46400,1140,26,63200,43700,0.78,0.25,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,66,57,50038
+Providence College,"Providence, RI",50400,1160,26,61500,36900,0.52,0.18,Rhode Island,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,84,52,48764
+Queens University of Charlotte,"Charlotte, NC",40100,1040,24,50000,27200,0.69,0.29,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,54,79,33532
+Ramapo College of New Jersey,"Mahwah, NJ",42100,1100,23,30600,17200,0.3,0.04,New Jersey,Master's degree,Mid East DE DC MD NJ NY PA,Public,74,57,14080
+Reed College,"Portland, OR",45200,1380,31,64400,20400,0.49,NA,Oregon,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,80,36,54200
+Rhode Island School of Design,"Providence, RI",46100,1240,28,66000,38200,0.31,0.01,Rhode Island,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,91,32,48370
+Rhodes College,"Memphis, TN",43900,1270,29,57900,31200,0.41,0.53,Tennessee,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,83,51,46504
+Ringling College of Art and Design,"Sarasota, FL",41600,1200,25,61100,49200,0.59,0.19,Florida,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,65,64,44560
+Ripon College,"Ripon, WI",41100,1160,25,46700,22400,0.81,0.15,Wisconsin,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,68,68,41835
+Roanoke College,"Salem, VA",41300,1090,24,55500,31700,0.72,0.24,Virginia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,67,67,42819
+Robert Morris University Illinois,"Chicago, IL",40700,1090,21,41300,21200,0.83,0.03,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,39,67,26700
+Roger Williams University,"Bristol, RI",47900,1200,25,52000,39300,0.4,0.12,Rhode Island,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,65,82,33336
+Rose-Hulman Institute of Technology,"Terre Haute, IN",66700,1300,30,61100,41900,0.55,0.35,Indiana,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,81,61,48012
+Saint Anselm College,"Manchester, NH",50000,1150,25,54200,33800,0.72,0.23,New Hampshire,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,80,76,40200
+Saint Edward's University,"Austin, TX",40600,1120,24,52600,23900,0.6,0.05,Texas,Master's degree,Southwest AZ NM OK TX,Private not-for-profit,64,84,43300
+Saint Johns University,"Collegeville, MN",47400,1100,26,52400,26500,0.66,0.24,Minnesota,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,74,80,43356
+Saint Joseph's College of Maine,"Standish, ME",47200,960,18,48600,27900,NA,NA,Maine,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,59,80,34610
+Saint Michael's College,"Colchester, VT",43800,1180,26,54300,31700,0.62,0.32,Vermont,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,78,85,43640
+Saint Norbert College,"De Pere, WI",41400,1220,25,45300,24800,0.7,0.24,Wisconsin,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,74,79,36593
+Saint Xavier University,"Chicago, IL",42300,1010,22,45300,18200,0.68,0.12,Illinois,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,52,75,33380
+Salem College,"Winston Salem, NC",33300,1100,25,44400,16900,NA,NA,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,57,57,28566
+Sarah Lawrence College,"Bronxville, NY",45000,1350,29,69100,39100,0.61,0.16,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,79,53,54010
+Savannah College of Art and Design,"Savannah, GA",40400,1060,24,54700,41400,0.34,0.44,Georgia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,65,93,36410
+Scripps College,"Claremont, CA",46600,1370,31,66300,38200,0.43,0.16,California,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,88,33,52966
+Seton Hill University,"Greensburg, PA",37900,1030,23,47300,23700,0.84,0.12,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,58,75,34660
+Siena College,"Loudonville, NY",46700,1120,25,50800,27400,0.73,0.18,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,78,78,35735
+Simpson College,"Indianola, IA",42800,1220,24,46800,23100,0.82,0.2,Iowa,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,68,84,37663
+Simpson University,"Redding, CA",36000,1030,22,38200,19900,0.88,0.05,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,57,56,27700
+Skidmore College,"Saratoga Springs, NY",45500,1240,28,65300,26500,0.44,0.01,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,87,25,52596
+Sonoma State University,"Rohnert Park, CA",45800,1010,22,24600,14100,0.35,0.05,California,Master's degree,Far West AK CA HI NV OR WA,Public,58,82,7724
+Southeast Missouri State University,"Cape Girardeau, MO",38400,1020,23,20600,12400,0.54,0.17,Missouri,Master's degree,Plains IA KS MN MO NE ND SD,Public,52,85,7185
+Southern Nazarene University,"Bethany, OK",43000,1190,24,34800,19200,NA,NA,Oklahoma,Master's degree,Southwest AZ NM OK TX,Private not-for-profit,45,NA,25178
+Southwestern College,"Winfield, KS",40900,980,23,39500,24700,0.79,0.18,New Mexico,Master's degree,Southwest AZ NM OK TX,Private not-for-profit,NA,NA,NA
+Southwestern University,"Georgetown, TX",48100,1170,26,51100,27900,0.63,0.35,Texas,Bachelor's degree,Southwest AZ NM OK TX,Private not-for-profit,74,43,40560
+Spelman College,"Atlanta, GA",45200,1020,22,45500,33300,0.7,NA,Georgia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,74,40,28181
+St Lawrence University,"Canton, NY",49800,1330,28,64100,33700,0.55,0.39,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,85,48,52990
+St Mary's College of Maryland,"St. Mary's City, MD",44800,1220,28,29700,18700,0.37,0.24,Maryland,Master's degree,Mid East DE DC MD NJ NY PA,Public,78,82,14496
+St Olaf College,"Northfield, MN",45800,1300,29,55200,30500,0.66,0.22,Minnesota,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,88,43,46000
+State University of New York at New Paltz,"New Paltz, NY",40300,1130,25,22900,15000,0.33,NA,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,72,44,7775
+Stevenson University,"Stevenson, MD",43000,1000,21,47400,28700,0.75,0.18,Maryland,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,54,61,35490
+Stonehill College,"Easton, MA",46400,1130,25,56400,33900,0.68,0.24,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,80,72,41300
+SUNY at Fredonia,"Fredonia, NY",38900,1050,24,23400,17200,0.52,0.07,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,63,65,8286
+SUNY at Purchase College,"Purchase, NY",42200,1080,24,25600,18900,0.52,0.12,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,67,74,8498
+SUNY College at Brockport,"Brockport, NY",40900,1060,24,22500,15100,0.56,0.02,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,66,53,8154
+SUNY College at Geneseo,"Geneseo, NY",41300,1290,28,23700,17300,0.39,0.05,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,77,72,8408
+SUNY College at Oswego,"Oswego, NY",38600,1110,24,23400,17200,0.57,0.12,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,66,54,8191
+SUNY College at Plattsburgh,"Plattsburgh, NY",39100,1030,22,22900,15200,0.54,0.13,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,63,53,8148
+SUNY College at Potsdam,"Potsdam, NY",36400,1120,22,22700,15700,0.65,0.09,New York,Master's degree,Mid East DE DC MD NJ NY PA,Public,53,67,8221
+SUNY College of Agriculture and Technology at Cobleskill,"Cobleskill, NY",34400,990,19,24200,15700,0.75,0.03,New York,Bachelor's degree,Mid East DE DC MD NJ NY PA,Public,44,94,8139
+SUNY College of Technology at Alfred,"Alfred, NY",43300,1090,24,24900,15700,NA,NA,New York,Bachelor's degree,Mid East DE DC MD NJ NY PA,Public,52,68,8327
+Susquehanna University,"Selinsgrove, PA",43300,1130,25,55500,28900,0.75,0.23,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,71,70,45470
+Swarthmore College,"Swarthmore, PA",50000,1440,33,65000,24600,0.51,0.01,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,94,11,50822
+Taylor University,"Upland, IN",41700,1170,28,42500,28100,0.59,0.29,Indiana,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,79,87,32885
+The College of Idaho,"Caldwell, ID",36100,1040,24,38100,20700,0.61,0.27,Idaho,Master's degree,Rocky Mountains CO ID MT UT WY,Private not-for-profit,67,76,28755
+The College of New Jersey,"Ewing, NJ",50500,1240,26,32000,20800,0.21,0.08,New Jersey,Master's degree,Mid East DE DC MD NJ NY PA,Public,87,48,16149
+The College of Saint Rose,"Albany, NY",36900,1140,23,45600,25600,0.76,0.09,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,59,83,31612
+The College of Wooster,"Wooster, OH",38600,1220,28,57700,30500,0.59,0.4,Ohio,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,77,56,48600
+The Evergreen State College,"Olympia, WA",40100,1080,24,23700,14900,0.55,NA,Washington,Master's degree,Far West AK CA HI NV OR WA,Public,57,96,7591
+The University of Tampa,"Tampa, FL",41200,1070,24,41800,29900,0.59,0.3,Florida,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,60,53,28426
+The University of the Arts,"Philadelphia, PA",42000,1010,22,60200,37800,NA,0.33,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,63,74,43100
+Toccoa Falls College,"Toccoa Falls, GA",32400,1030,20,34100,20000,0.77,0.08,Georgia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,55,59,22104
+Transylvania University,"Lexington, KY",37100,1160,27,47600,25200,0.67,0.33,Kentucky,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,76,95,37290
+Trinity College,"Hartford, CT",53400,1250,27,66900,27400,0.39,0.03,Connecticut,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,81,34,54770
+Trinity University,"San Antonio, TX",43300,1260,29,52600,30400,0.44,0.5,Texas,Master's degree,Southwest AZ NM OK TX,Private not-for-profit,80,38,41344
+Truman State University,"Kirksville, MO",40600,1210,28,21200,13100,0.5,0.35,Missouri,Master's degree,Plains IA KS MN MO NE ND SD,Public,75,67,7656
+University of Central Missouri,"Warrensburg, MO",40800,1110,21,19400,14800,0.39,0.2,Missouri,Master's degree,Plains IA KS MN MO NE ND SD,Public,49,84,7520
+University of Maine at Farmington,"Farmington, ME",40000,1060,21,22700,16100,0.73,0.03,Maine,Master's degree,New England CT ME MA NH RI VT,Public,51,83,9458
+University of Maine at Presque Isle,"Presque Isle, ME",35673,1180,24,19100,11300,0.75,0.05,Maine,Bachelor's degree,New England CT ME MA NH RI VT,Public,29,95,7885
+University of Mary Washington,"Fredericksburg, VA",45400,1110,24,26100,18300,0.23,0.13,Virginia,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,71,73,12128
+University of Minnesota-Morris,"Morris, MN",38900,1200,26,24100,15700,0.6,0.12,Minnesota,Bachelor's degree,Plains IA KS MN MO NE ND SD,Public,59,64,13072
+University of Mount Olive,"Mount Olive, NC",36100,920,19,29600,13300,0.66,0.1,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,42,49,19700
+University of Nebraska at Kearney,"Kearney, NE",39200,970,23,21400,15900,0.51,0.17,Nebraska,Master's degree,Plains IA KS MN MO NE ND SD,Public,61,82,7294
+University of North Carolina at Asheville,"Asheville, NC",35700,1200,26,20700,13100,0.53,0.06,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,62,80,7145
+University of North Carolina School of the Arts,"Winston-Salem, NC",54800,1120,23,23100,13000,0.56,0.04,North Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,70,33,9338
+University of Valley Forge,"Phoenixville, PA",34300,970,22,33700,23900,0.85,0.09,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,45,53,21370
+University of Wisconsin-Green Bay,"Green Bay, WI",35900,1150,23,18800,13000,0.5,0.03,Wisconsin,Master's degree,Great Lakes IL IN MI OH WI,Public,51,76,7878
+University of Wisconsin-Platteville,"Platteville, WI",55100,1190,23,19000,14200,0.31,0.09,Wisconsin,Master's degree,Great Lakes IL IN MI OH WI,Public,53,80,7536
+University of Wisconsin-River Falls,"River Falls, WI",39600,1150,22,18700,13600,0.36,0.03,Wisconsin,Master's degree,Great Lakes IL IN MI OH WI,Public,53,75,8013
+Ursinus College,"Collegeville, PA",44900,1170,27,63400,34300,0.72,0.23,Pennsylvania,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,77,78,50360
+Vanguard University of Southern California,"Costa Mesa, CA",41600,950,23,45700,26400,0.53,0.07,California,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,61,47,32430
+Vassar College,"Poughkeepsie, NY",44500,1390,32,66000,21400,0.58,NA,New York,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,91,24,55210
+Virginia Military Institute,"Lexington, VA",56400,1150,25,28100,17700,0.43,0.13,Virginia,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,77,53,18214
+Wabash College,"Crawfordsville, IN",52400,1240,25,51400,24900,0.78,0.22,Indiana,Bachelor's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,77,63,42250
+Wartburg College,"Waverly, IA",41600,980,24,49400,24700,0.75,0.25,Iowa,Bachelor's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,65,77,39730
+Washington & Jefferson College,"Washington, PA",42100,1280,27,55800,30300,0.68,0.19,Pennsylvania,Master's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,70,48,46628
+Washington College,"Chestertown, MD",45900,1160,27,58600,33800,0.58,0.31,Maryland,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,76,48,44820
+Wayne State College,"Wayne, NE",37500,1230,25,16500,12300,0.46,0.07,Nebraska,Master's degree,Plains IA KS MN MO NE ND SD,Public,51,NA,6848
+Wellesley College,"Wellesley, MA",49000,1410,31,63600,23100,0.62,NA,Massachusetts,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,89,22,51148
+Wells College,"Aurora, NY",44200,1070,24,53100,23100,0.87,0.07,New York,Bachelor's degree,Mid East DE DC MD NJ NY PA,Private not-for-profit,47,80,39600
+Wentworth Institute of Technology,"Boston, MA",56100,1110,24,51900,35300,NA,0.24,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,67,92,34977
+Western Washington University,"Bellingham, WA",46800,1110,25,24200,16600,0.38,0.02,Washington,Master's degree,Far West AK CA HI NV OR WA,Public,69,85,8183
+Westfield State University,"Westfield, MA",45300,1000,20,22600,16900,0.44,0.01,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,65,85,9715
+Westmont College,"Santa Barbara, CA",45100,1190,27,57800,35600,0.66,0.27,California,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,70,85,44044
+Wheaton College,"Wheaton, IL",44100,1320,30,45500,27500,0.52,0.21,Massachusetts,Bachelor's degree,New England CT ME MA NH RI VT,Private not-for-profit,78,48,50850
+Wheelock College,"Boston, MA",37100,990,22,51400,28900,0.82,0.14,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,57,77,36350
+Whitman College,"Walla Walla, WA",43500,1320,30,60600,36800,0.46,0.29,Washington,Bachelor's degree,Far West AK CA HI NV OR WA,Private not-for-profit,88,52,49780
+Whitworth University,"Spokane, WA",42900,1280,27,52400,28400,0.69,0.27,Washington,Master's degree,Far West AK CA HI NV OR WA,Private not-for-profit,75,89,42186
+William Jewell College,"Liberty, MO",41600,1160,25,46600,23100,0.68,0.25,Missouri,Master's degree,Plains IA KS MN MO NE ND SD,Private not-for-profit,59,48,33620
+Williams College,"Williamstown, MA",53100,1450,32,66600,22100,0.5,NA,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Private not-for-profit,94,15,53550
+Winthrop University,"Rock Hill, SC",37800,1030,22,27300,17300,0.66,0.13,South Carolina,Master's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Public,57,73,15220
+Wisconsin Lutheran College,"Milwaukee, WI",41200,1020,24,39200,20900,0.77,0.15,Wisconsin,Master's degree,Great Lakes IL IN MI OH WI,Private not-for-profit,67,90,29140
+Wofford College,"Spartanburg, SC",45900,1170,27,53600,27000,0.62,0.25,South Carolina,Bachelor's degree,Southeast AL AR FL GA KY LA MS NC SC TN VA WV,Private not-for-profit,81,69,41955
+Worcester State University,"Worcester, MA",44200,1020,22,24600,14700,0.49,0.02,Massachusetts,Master's degree,New England CT ME MA NH RI VT,Public,55,76,9532
